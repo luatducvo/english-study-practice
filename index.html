@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Vocabulary Practice</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <!-- Ionicons for icons -->
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</head>
+<body>
+    <div class="background-shapes">
+        <div class="shape shape-1"></div>
+        <div class="shape shape-2"></div>
+        <div class="shape shape-3"></div>
+    </div>
+
+    <div class="app-container">
+        <header>
+            <h1>VocabMaster</h1>
+            <div class="progress-container">
+                <div class="progress-bar" id="progress-bar"></div>
+            </div>
+            <p id="progress-text">0 / 0 Words</p>
+        </header>
+
+        <main id="main-content">
+            <!-- Words will be injected here -->
+            <div id="word-list" class="word-list"></div>
+            
+            <div class="action-buttons">
+                <button id="skip-btn" class="btn btn-secondary">
+                    <ion-icon name="play-skip-forward-outline"></ion-icon> Skip Remaining
+                </button>
+                <button id="next-btn" class="btn btn-primary" disabled>
+                    Next 10 Words <ion-icon name="arrow-forward-outline"></ion-icon>
+                </button>
+            </div>
+        </main>
+
+        <section id="completion-screen" class="hidden">
+            <div class="completion-header">
+                <h2><ion-icon name="trophy-outline"></ion-icon> Practice Complete!</h2>
+                <p>Great job! Here is your complete vocabulary list.</p>
+            </div>
+            <div class="vocab-table-container">
+                <table class="vocab-table">
+                    <thead>
+                        <tr>
+                            <th>No.</th>
+                            <th>English Word</th>
+                            <th>Vietnamese Meaning</th>
+                        </tr>
+                    </thead>
+                    <tbody id="vocab-table-body">
+                        <!-- Full list injected here -->
+                    </tbody>
+                </table>
+            </div>
+            <button id="restart-btn" class="btn btn-primary">Practice Again</button>
+        </section>
+    </div>
+
+    <!-- Data script will be generated dynamically -->
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
