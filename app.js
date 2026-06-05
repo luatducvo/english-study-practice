@@ -9,8 +9,18 @@ document.addEventListener('DOMContentLoaded', () => {
     const CHUNK_SIZE = 10;
     let currentIndex = 0;
 
+    function getCustomVocab() {
+        const stored = localStorage.getItem('customVocab');
+        return stored ? JSON.parse(stored) : [];
+    }
+
+    function saveCustomVocab(vocabArray) {
+        localStorage.setItem('customVocab', JSON.stringify(vocabArray));
+    }
+
     function initData() {
-        vocabData = [...window.vocabData];
+        const customVocab = getCustomVocab();
+        vocabData = [...customVocab, ...window.vocabData];
         // Fisher-Yates shuffle
         for (let i = vocabData.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * (i + 1));
@@ -29,11 +39,21 @@ document.addEventListener('DOMContentLoaded', () => {
     const vocabTableBody = document.getElementById('vocab-table-body');
     const restartBtn = document.getElementById('restart-btn');
     
+    // Dashboard UI Elements
+    const dashboardModal = document.getElementById('dashboard-modal');
+    const openDashboardBtn = document.getElementById('open-dashboard-btn');
+    const closeDashboardBtn = document.getElementById('close-dashboard-btn');
+    const addWordForm = document.getElementById('add-word-form');
+    const customWordsList = document.getElementById('custom-words-list');
+    const customWordCount = document.getElementById('custom-word-count');
+    
     // Normalize string for checking (remove accents, to lower)
     function normalizeStr(str) {
         if (!str) return '';
         return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
     }
+    
+
     
     function updateProgress() {
         const wordsDone = Math.min(currentIndex, vocabData.length);
@@ -61,28 +81,79 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="word-text">${item.word}</div>
                 <div class="input-container">
                     <input type="text" class="word-input" id="input-${index}" placeholder="Type Vietnamese meaning..." autocomplete="off">
+                    <button class="hint-btn" id="hint-${index}" title="Show Hint" tabindex="-1"><ion-icon name="bulb-outline"></ion-icon></button>
                     <ion-icon name="checkmark-circle" class="status-icon"></ion-icon>
                 </div>
             `;
             wordListEl.appendChild(div);
             
             const input = div.querySelector(`#input-${index}`);
+            const hintBtn = div.querySelector(`#hint-${index}`);
+            
+            let isHintVisible = false;
+            hintBtn.addEventListener('click', () => {
+                isHintVisible = !isHintVisible;
+                if (isHintVisible) {
+                    input.placeholder = item.meaning; // Show full meaning
+                    hintBtn.classList.add('active');
+                } else {
+                    input.placeholder = "Type Vietnamese meaning...";
+                    hintBtn.classList.remove('active');
+                }
+                input.focus();
+            });
+
+            function focusNextInput() {
+                let found = false;
+                // Find next available input after the current one
+                for (let i = index + 1; i < CHUNK_SIZE; i++) {
+                    const nextInput = document.getElementById(`input-${i}`);
+                    if (nextInput && !nextInput.disabled) {
+                        nextInput.focus();
+                        found = true;
+                        break;
+                    }
+                }
+                
+                // If not found, look from the beginning (wrap around)
+                if (!found) {
+                    for (let i = 0; i < index; i++) {
+                        const prevInput = document.getElementById(`input-${i}`);
+                        if (prevInput && !prevInput.disabled) {
+                            prevInput.focus();
+                            found = true;
+                            break;
+                        }
+                    }
+                }
+                
+                // If everything is done, focus the Next button
+                if (!found && !nextBtn.disabled) {
+                    nextBtn.focus();
+                }
+            }
+
             input.addEventListener('input', (e) => {
                 checkAnswer(e.target.value, item.meaning, div, input, false);
                 checkAllCompleted();
+                if (div.classList.contains('correct')) {
+                    // Delay focus to prevent IME/typing bleed to the next input
+                    setTimeout(() => {
+                        focusNextInput();
+                    }, 300);
+                }
             });
             
             // Allow enter key to move to next input
             input.addEventListener('keydown', (e) => {
                 if (e.key === 'Enter') {
+                    e.preventDefault(); // Prevent default Enter behavior (like form submission)
                     checkAnswer(e.target.value, item.meaning, div, input, true);
                     checkAllCompleted();
-                    
-                    if (div.classList.contains('correct')) {
-                        const nextInput = document.getElementById(`input-${index + 1}`);
-                        if (nextInput) nextInput.focus();
-                        else if (!nextBtn.disabled) nextBtn.click();
-                    }
+                    // Small delay to ensure any active composition or typing is cleared
+                    setTimeout(() => {
+                        focusNextInput();
+                    }, 50);
                 }
             });
         });
@@ -182,6 +253,78 @@ document.addEventListener('DOMContentLoaded', () => {
         completionScreen.classList.add('hidden');
         mainContent.classList.remove('hidden');
         renderChunk();
+    });
+    
+    // Dashboard Event Listeners
+    function renderCustomWords() {
+        const customVocab = getCustomVocab();
+        customWordsList.innerHTML = '';
+        customWordCount.innerText = `(${customVocab.length})`;
+        
+        if (customVocab.length === 0) {
+            customWordsList.innerHTML = '<p style="color:var(--text-secondary); text-align:center; padding:20px;">No custom words yet.</p>';
+            return;
+        }
+        
+        customVocab.forEach((item, index) => {
+            const div = document.createElement('div');
+            div.className = 'custom-word-item';
+            div.innerHTML = `
+                <div class="custom-word-text">${item.word}</div>
+                <div class="custom-word-meaning">${item.meaning}</div>
+                <button class="delete-word-btn" data-index="${index}" title="Delete Word"><ion-icon name="trash-outline"></ion-icon></button>
+            `;
+            customWordsList.appendChild(div);
+        });
+        
+        // Add delete event listeners
+        document.querySelectorAll('.delete-word-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                const index = e.currentTarget.dataset.index;
+                const currentList = getCustomVocab();
+                currentList.splice(index, 1);
+                saveCustomVocab(currentList);
+                renderCustomWords();
+            });
+        });
+    }
+
+    openDashboardBtn.addEventListener('click', () => {
+        renderCustomWords();
+        dashboardModal.classList.remove('hidden');
+    });
+
+    closeDashboardBtn.addEventListener('click', () => {
+        dashboardModal.classList.add('hidden');
+    });
+    
+    // Close modal on outside click
+    dashboardModal.addEventListener('click', (e) => {
+        if (e.target === dashboardModal) {
+            dashboardModal.classList.add('hidden');
+        }
+    });
+
+    addWordForm.addEventListener('submit', (e) => {
+        e.preventDefault();
+        const newWordInput = document.getElementById('new-word');
+        const newMeaningInput = document.getElementById('new-meaning');
+        
+        const word = newWordInput.value.trim();
+        const meaning = newMeaningInput.value.trim();
+        
+        if (word && meaning) {
+            const customVocab = getCustomVocab();
+            customVocab.unshift({ word, meaning }); // Add to top of list
+            saveCustomVocab(customVocab);
+            
+            // Clear inputs
+            newWordInput.value = '';
+            newMeaningInput.value = '';
+            newWordInput.focus();
+            
+            renderCustomWords();
+        }
     });
     
     // Start App

@@ -19,7 +19,12 @@
 
     <div class="app-container">
         <header>
-            <h1>VocabMaster</h1>
+            <div class="header-top">
+                <h1>VocabMaster</h1>
+                <button id="open-dashboard-btn" class="btn-icon" title="Manage Vocabulary">
+                    <ion-icon name="settings-outline"></ion-icon>
+                </button>
+            </div>
             <div class="progress-container">
                 <div class="progress-bar" id="progress-bar"></div>
             </div>
@@ -61,6 +66,32 @@
             </div>
             <button id="restart-btn" class="btn btn-primary">Practice Again</button>
         </section>
+    </div>
+
+    <!-- Dashboard Modal -->
+    <div id="dashboard-modal" class="modal hidden">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2><ion-icon name="book-outline"></ion-icon> Vocabulary Dashboard</h2>
+                <button id="close-dashboard-btn" class="btn-icon"><ion-icon name="close-outline"></ion-icon></button>
+            </div>
+            
+            <div class="add-word-section">
+                <h3>Add New Word</h3>
+                <form id="add-word-form" class="add-word-form">
+                    <input type="text" id="new-word" class="word-input" placeholder="English Word" required autocomplete="off">
+                    <input type="text" id="new-meaning" class="word-input" placeholder="Vietnamese Meaning" required autocomplete="off">
+                    <button type="submit" class="btn btn-primary"><ion-icon name="add-outline"></ion-icon> Add</button>
+                </form>
+            </div>
+
+            <div class="custom-words-section">
+                <h3>Your Custom Words <span id="custom-word-count">(0)</span></h3>
+                <div class="custom-words-list" id="custom-words-list">
+                    <!-- Custom words will be injected here -->
+                </div>
+            </div>
+        </div>
     </div>
 
     <!-- Data script will be generated dynamically -->
