@@ -104,13 +104,15 @@ document.addEventListener('DOMContentLoaded', () => {
             }
             
             let isHintVisible = false;
+            let originalValue = '';
             hintBtn.addEventListener('click', () => {
                 isHintVisible = !isHintVisible;
                 if (isHintVisible) {
-                    input.placeholder = item.meaning; // Show full meaning
+                    originalValue = input.value; // Store what user has typed so far
+                    input.value = item.meaning;   // Set the input value to the hint/meaning
                     hintBtn.classList.add('active');
                 } else {
-                    input.placeholder = "Type Vietnamese meaning...";
+                    input.value = originalValue;  // Restore user's typed text
                     hintBtn.classList.remove('active');
                 }
                 input.focus();
@@ -147,6 +149,10 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             input.addEventListener('input', (e) => {
+                if (isHintVisible) {
+                    isHintVisible = false;
+                    hintBtn.classList.remove('active');
+                }
                 checkAnswer(e.target.value, item.meaning, div, input, false);
                 checkAllCompleted();
                 if (div.classList.contains('correct')) {
