@@ -1,1678 +1,4414 @@
 [
   {
-    "word": "demand",
-    "meaning": "yêu cầu"
+    "meaning": "nhu cầu; yêu cầu",
+    "word": "demand"
   },
   {
-    "word": "value",
-    "meaning": "giá trị"
+    "meaning": "giá trị",
+    "word": "value"
   },
   {
-    "word": "afraid",
-    "meaning": "sợ"
+    "meaning": "sợ hãi",
+    "word": "afraid"
   },
   {
-    "word": "approach",
-    "meaning": "tiếp cận"
+    "meaning": "cách tiếp cận; tiếp cận",
+    "word": "approach"
   },
   {
-    "word": "get over",
-    "meaning": "vượt qua"
+    "meaning": "vượt qua",
+    "word": "get over"
   },
   {
-    "word": "flexibility",
-    "meaning": "tính linh hoạt"
+    "meaning": "tính linh hoạt",
+    "word": "flexibility"
   },
   {
-    "word": "surface",
-    "meaning": "bề mặt"
+    "meaning": "bề mặt",
+    "word": "surface"
   },
   {
-    "word": "demonstrate",
-    "meaning": "chứng minh"
+    "meaning": "chứng minh; thể hiện",
+    "word": "demonstrate"
   },
   {
-    "word": "real estate",
-    "meaning": "bất động sản"
+    "meaning": "bất động sản",
+    "word": "real estate"
   },
   {
-    "word": "experienced",
-    "meaning": "có kinh nghiệm"
+    "meaning": "có kinh nghiệm",
+    "word": "experienced"
   },
   {
-    "word": "result",
-    "meaning": "kết quả"
+    "meaning": "kết quả",
+    "word": "result"
   },
   {
-    "word": "wide selection of",
-    "meaning": "lựa chọn rộng rãi"
+    "meaning": "nhiều sự lựa chọn về",
+    "word": "wide selection of"
   },
   {
-    "word": "hold on",
-    "meaning": "giữ lấy"
+    "meaning": "giữ máy; chờ một chút",
+    "word": "hold on"
   },
   {
-    "word": "agreement",
-    "meaning": "hiệp định"
+    "meaning": "thỏa thuận; hợp đồng",
+    "word": "agreement"
   },
   {
-    "word": "campaign",
-    "meaning": "chiến dịch"
+    "meaning": "chiến dịch",
+    "word": "campaign"
   },
   {
-    "word": "industry",
-    "meaning": "ngành công nghiệp"
+    "meaning": "ngành công nghiệp",
+    "word": "industry"
   },
   {
-    "word": "entertainment",
-    "meaning": "sự giải trí"
+    "meaning": "giải trí",
+    "word": "entertainment"
   },
   {
-    "word": "outline",
-    "meaning": "phác thảo"
+    "meaning": "đề cương; phác thảo",
+    "word": "outline"
   },
   {
-    "word": "take after sb",
-    "meaning": "theo đuổi ai đó"
+    "meaning": "giống ai đó",
+    "word": "take after sb"
   },
   {
-    "word": "area",
-    "meaning": "khu vực"
+    "meaning": "khu vực",
+    "word": "area"
   },
   {
-    "word": "vehicle",
-    "meaning": "phương tiện giao thông"
+    "meaning": "phương tiện",
+    "word": "vehicle"
   },
   {
-    "word": "abandon",
-    "meaning": "bỏ rơi"
+    "meaning": "từ bỏ",
+    "word": "abandon"
   },
   {
-    "word": "candidate",
-    "meaning": "ứng viên"
+    "meaning": "ứng viên",
+    "word": "candidate"
   },
   {
-    "word": "long-term",
-    "meaning": "lâu dài"
+    "meaning": "dài hạn",
+    "word": "long-term"
   },
   {
-    "word": "native",
-    "meaning": "tự nhiên"
+    "meaning": "bản địa; bản xứ",
+    "word": "native"
   },
   {
-    "word": "be + concerned",
-    "meaning": "được + quan tâm"
+    "meaning": "quan tâm; lo lắng",
+    "word": "be + concerned"
   },
   {
-    "word": "scenario",
-    "meaning": "kịch bản"
+    "meaning": "tình huống; kịch bản",
+    "word": "scenario"
   },
   {
-    "word": "host",
-    "meaning": "chủ nhà"
+    "meaning": "chủ trì; người tổ chức",
+    "word": "host"
   },
   {
-    "word": "household",
-    "meaning": "hộ gia đình "
+    "meaning": "hộ gia đình",
+    "word": "household"
   },
   {
-    "word": "inspiration",
-    "meaning": "cảm hứng"
+    "meaning": "cảm hứng",
+    "word": "inspiration"
   },
   {
-    "word": "include",
-    "meaning": "bao gồm"
+    "meaning": "bao gồm",
+    "word": "include"
   },
   {
-    "word": "depend",
-    "meaning": "phụ thuộc"
+    "meaning": "phụ thuộc",
+    "word": "depend"
   },
   {
-    "word": "find out",
-    "meaning": "tìm ra"
+    "meaning": "tìm ra; phát hiện",
+    "word": "find out"
   },
   {
-    "word": "determine",
-    "meaning": "quyết tâm"
+    "meaning": "xác định",
+    "word": "determine"
   },
   {
-    "word": "assemble",
-    "meaning": "tập hợp"
+    "meaning": "lắp ráp; tập hợp",
+    "word": "assemble"
   },
   {
-    "word": "permanent",
-    "meaning": "vĩnh viễn"
+    "meaning": "lâu dài; vĩnh viễn",
+    "word": "permanent"
   },
   {
-    "word": "break down",
-    "meaning": "phá vỡ"
+    "meaning": "hỏng hóc; phân tích",
+    "word": "break down"
   },
   {
-    "word": "rehearsal",
-    "meaning": "diễn tập"
+    "meaning": "buổi diễn tập",
+    "word": "rehearsal"
   },
   {
-    "word": "inspector",
-    "meaning": "thanh tra"
+    "meaning": "thanh tra; kiểm tra viên",
+    "word": "inspector"
   },
   {
-    "word": "confirm",
-    "meaning": "xác nhận"
+    "meaning": "xác nhận",
+    "word": "confirm"
   },
   {
-    "word": "reinforce",
-    "meaning": "củng cố"
+    "meaning": "củng cố; tăng cường",
+    "word": "reinforce"
   },
   {
-    "word": "patent",
-    "meaning": "bằng sáng chế"
+    "meaning": "bằng sáng chế",
+    "word": "patent"
   },
   {
-    "word": "equipment",
-    "meaning": "thiết bị"
+    "meaning": "thiết bị",
+    "word": "equipment"
   },
   {
-    "word": "cheer up",
-    "meaning": "vui lên"
+    "meaning": "vui lên; làm ai vui lên",
+    "word": "cheer up"
   },
   {
-    "word": "unimaginable",
-    "meaning": "không thể tưởng tượng được"
+    "meaning": "không thể tưởng tượng được",
+    "word": "unimaginable"
   },
   {
-    "word": "take part in",
-    "meaning": "tham gia vào"
+    "meaning": "tham gia",
+    "word": "take part in"
   },
   {
-    "word": "hold up",
-    "meaning": "chờ đã"
+    "meaning": "trì hoãn; làm chậm",
+    "word": "hold up"
   },
   {
-    "word": "provision",
-    "meaning": "sự cung cấp"
+    "meaning": "điều khoản; sự cung cấp",
+    "word": "provision"
   },
   {
-    "word": "organize",
-    "meaning": "tổ chức"
+    "meaning": "tổ chức",
+    "word": "organize"
   },
   {
-    "word": "pollution",
-    "meaning": "sự ô nhiễm"
+    "meaning": "ô nhiễm",
+    "word": "pollution"
   },
   {
-    "word": "heavy",
-    "meaning": "nặng"
+    "meaning": "nặng; nhiều",
+    "word": "heavy"
   },
   {
-    "word": "revolution",
-    "meaning": "cuộc cách mạng"
+    "meaning": "cuộc cách mạng",
+    "word": "revolution"
   },
   {
-    "word": "catch up",
-    "meaning": "bắt kịp"
+    "meaning": "bắt kịp",
+    "word": "catch up"
   },
   {
-    "word": "hiring process",
-    "meaning": "quá trình tuyển dụng"
+    "meaning": "quy trình tuyển dụng",
+    "word": "hiring process"
   },
   {
-    "word": "honor",
-    "meaning": "tôn kính"
+    "meaning": "vinh dự",
+    "word": "honor"
   },
   {
-    "word": "short-term",
-    "meaning": "ngắn hạn"
+    "meaning": "ngắn hạn",
+    "word": "short-term"
   },
   {
-    "word": "be absent",
-    "meaning": "vắng mặt"
+    "meaning": "vắng mặt",
+    "word": "be absent"
   },
   {
-    "word": "dispute",
-    "meaning": "tranh luận"
+    "meaning": "tranh chấp",
+    "word": "dispute"
   },
   {
-    "word": "excellent",
-    "meaning": "xuất sắc"
+    "meaning": "xuất sắc",
+    "word": "excellent"
   },
   {
-    "word": "initiative",
-    "meaning": "sáng kiến"
+    "meaning": "sáng kiến; tính chủ động",
+    "word": "initiative"
   },
   {
-    "word": "criticism",
-    "meaning": "chỉ trích"
+    "meaning": "sự chỉ trích",
+    "word": "criticism"
   },
   {
-    "word": "approval",
-    "meaning": "sự chấp thuận"
+    "meaning": "sự chấp thuận",
+    "word": "approval"
   },
   {
-    "word": "folder",
-    "meaning": "thư mục"
+    "meaning": "thư mục; bìa hồ sơ",
+    "word": "folder"
   },
   {
-    "word": "oversee",
-    "meaning": "giám sát"
+    "meaning": "giám sát",
+    "word": "oversee"
   },
   {
-    "word": "party",
-    "meaning": "buổi tiệc"
+    "meaning": "bên liên quan; bữa tiệc",
+    "word": "party"
   },
   {
-    "word": "market share",
-    "meaning": "thị phần"
+    "meaning": "thị phần",
+    "word": "market share"
   },
   {
-    "word": "upcoming",
-    "meaning": "sắp tới"
+    "meaning": "sắp tới",
+    "word": "upcoming"
   },
   {
-    "word": "growth",
-    "meaning": "sự phát triển"
+    "meaning": "sự tăng trưởng",
+    "word": "growth"
   },
   {
-    "word": "expire",
-    "meaning": "hết hạn"
+    "meaning": "hết hạn",
+    "word": "expire"
   },
   {
-    "word": "retirement",
-    "meaning": "nghỉ hưu"
+    "meaning": "sự nghỉ hưu",
+    "word": "retirement"
   },
   {
-    "word": "branch",
-    "meaning": "chi nhánh"
+    "meaning": "chi nhánh",
+    "word": "branch"
   },
   {
-    "word": "advise",
-    "meaning": "khuyên nhủ"
+    "meaning": "khuyên",
+    "word": "advise"
   },
   {
-    "word": "decline",
-    "meaning": "sự suy sụp"
+    "meaning": "từ chối; suy giảm",
+    "word": "decline"
   },
   {
-    "word": "income",
-    "meaning": "thu nhập"
+    "meaning": "thu nhập",
+    "word": "income"
   },
   {
-    "word": "assurance",
-    "meaning": "sự đảm bảo"
+    "meaning": "sự đảm bảo",
+    "word": "assurance"
   },
   {
-    "word": "show up",
-    "meaning": "xuất hiện"
+    "meaning": "xuất hiện",
+    "word": "show up"
   },
   {
-    "word": "marketing",
-    "meaning": "tiếp thị"
+    "meaning": "tiếp thị",
+    "word": "marketing"
   },
   {
-    "word": "look forward to",
-    "meaning": "mong chờ"
+    "meaning": "mong đợi",
+    "word": "look forward to"
   },
   {
-    "word": "feature",
-    "meaning": "tính năng"
+    "meaning": "đặc điểm; tính năng",
+    "word": "feature"
   },
   {
-    "word": "freshwater",
-    "meaning": "nước ngọt"
+    "meaning": "nước ngọt",
+    "word": "freshwater"
   },
   {
-    "word": "market",
-    "meaning": "chợ"
+    "meaning": "thị trường",
+    "word": "market"
   },
   {
-    "word": "proposal",
-    "meaning": "đề xuất"
+    "meaning": "đề xuất",
+    "word": "proposal"
   },
   {
-    "word": "convince",
-    "meaning": "thuyết phục"
+    "meaning": "thuyết phục",
+    "word": "convince"
   },
   {
-    "word": "be + qualified",
-    "meaning": "được + đủ điều kiện"
+    "meaning": "đủ điều kiện; có năng lực",
+    "word": "be + qualified"
   },
   {
-    "word": "organization",
-    "meaning": "tổ chức"
+    "meaning": "tổ chức",
+    "word": "organization"
   },
   {
-    "word": "failure",
-    "meaning": "sự thất bại"
+    "meaning": "thất bại",
+    "word": "failure"
   },
   {
-    "word": "opportunity",
-    "meaning": "cơ hội"
+    "meaning": "cơ hội",
+    "word": "opportunity"
   },
   {
-    "word": "predict",
-    "meaning": "dự đoán"
+    "meaning": "dự đoán",
+    "word": "predict"
   },
   {
-    "word": "obtain",
-    "meaning": "đạt được"
+    "meaning": "đạt được; thu được",
+    "word": "obtain"
   },
   {
-    "word": "president",
-    "meaning": "chủ tịch"
+    "meaning": "chủ tịch; tổng thống",
+    "word": "president"
   },
   {
-    "word": "strategy",
-    "meaning": "chiến lược"
+    "meaning": "chiến lược",
+    "word": "strategy"
   },
   {
-    "word": "screening",
-    "meaning": "sàng lọc"
+    "meaning": "sự sàng lọc; tuyển chọn",
+    "word": "screening"
   },
   {
-    "word": "enthusiastic",
-    "meaning": "nhiệt tình"
+    "meaning": "nhiệt tình",
+    "word": "enthusiastic"
   },
   {
-    "word": "recently",
-    "meaning": "gần đây"
+    "meaning": "gần đây",
+    "word": "recently"
   },
   {
-    "word": "be + promoted",
-    "meaning": "được + thăng chức"
+    "meaning": "được thăng chức",
+    "word": "be + promoted"
   },
   {
-    "word": "authorized",
-    "meaning": "được ủy quyền"
+    "meaning": "được ủy quyền",
+    "word": "authorized"
   },
   {
-    "word": "provide",
-    "meaning": "cung cấp"
+    "meaning": "cung cấp",
+    "word": "provide"
   },
   {
-    "word": "obligate",
-    "meaning": "bắt buộc"
+    "meaning": "bắt buộc",
+    "word": "obligate"
   },
   {
-    "word": "advertise",
-    "meaning": "quảng cáo"
+    "meaning": "quảng cáo",
+    "word": "advertise"
   },
   {
-    "word": "empty",
-    "meaning": "trống"
+    "meaning": "trống; rỗng",
+    "word": "empty"
   },
   {
-    "word": "handle",
-    "meaning": "xử lý"
+    "meaning": "xử lý; giải quyết",
+    "word": "handle"
   },
   {
-    "word": "dedication",
-    "meaning": "sự cống hiến"
+    "meaning": "sự tận tâm",
+    "word": "dedication"
   },
   {
-    "word": "expansion",
-    "meaning": "mở rộng"
+    "meaning": "sự mở rộng",
+    "word": "expansion"
   },
   {
-    "word": "recruitment",
-    "meaning": "tuyển dụng"
+    "meaning": "sự tuyển dụng",
+    "word": "recruitment"
   },
   {
-    "word": "assign",
-    "meaning": "giao phó"
+    "meaning": "phân công",
+    "word": "assign"
   },
   {
-    "word": "validity",
-    "meaning": "hiệu lực"
+    "meaning": "hiệu lực; tính hợp lệ",
+    "word": "validity"
   },
   {
-    "word": "competitor",
-    "meaning": "đối thủ cạnh tranh"
+    "meaning": "đối thủ cạnh tranh",
+    "word": "competitor"
   },
   {
-    "word": "accidental",
-    "meaning": "tình cờ"
+    "meaning": "tình cờ; ngoài ý muốn",
+    "word": "accidental"
   },
   {
-    "word": "contribute",
-    "meaning": "đóng góp"
+    "meaning": "đóng góp",
+    "word": "contribute"
   },
   {
-    "word": "attendance",
-    "meaning": "sự tham dự"
+    "meaning": "sự tham dự",
+    "word": "attendance"
   },
   {
-    "word": "reason",
-    "meaning": "lý do"
+    "meaning": "lý do",
+    "word": "reason"
   },
   {
-    "word": "announcement",
-    "meaning": "thông báo"
+    "meaning": "thông báo",
+    "word": "announcement"
   },
   {
-    "word": "harvest",
-    "meaning": "mùa gặt"
+    "meaning": "thu hoạch",
+    "word": "harvest"
   },
   {
-    "word": "currently",
-    "meaning": "hiện nay"
+    "meaning": "hiện tại",
+    "word": "currently"
   },
   {
-    "word": "rooftop",
-    "meaning": "mái nhà"
+    "meaning": "mái nhà; sân thượng",
+    "word": "rooftop"
   },
   {
-    "word": "employee",
-    "meaning": "người lao động"
+    "meaning": "nhân viên",
+    "word": "employee"
   },
   {
-    "word": "risk",
-    "meaning": "rủi ro"
+    "meaning": "rủi ro",
+    "word": "risk"
   },
   {
-    "word": "excel in",
-    "meaning": "xuất sắc trong"
+    "meaning": "xuất sắc trong",
+    "word": "excel in"
   },
   {
-    "word": "get along with",
-    "meaning": "hòa hợp với"
+    "meaning": "hòa hợp với",
+    "word": "get along with"
   },
   {
-    "word": "bill",
-    "meaning": "hóa đơn"
+    "meaning": "hóa đơn",
+    "word": "bill"
   },
   {
-    "word": "greenhouse gas emission",
-    "meaning": "phát thải khí nhà kính"
+    "meaning": "phát thải khí nhà kính",
+    "word": "greenhouse gas emission"
   },
   {
-    "word": "facility",
-    "meaning": "cơ sở"
+    "meaning": "cơ sở vật chất",
+    "word": "facility"
   },
   {
-    "word": "session",
-    "meaning": "phiên họp"
+    "meaning": "phiên họp; buổi học",
+    "word": "session"
   },
   {
-    "word": "appliance",
-    "meaning": "thiết bị"
+    "meaning": "thiết bị gia dụng",
+    "word": "appliance"
   },
   {
-    "word": "agenda",
-    "meaning": "chương trình nghị sự"
+    "meaning": "chương trình nghị sự",
+    "word": "agenda"
   },
   {
-    "word": "relevant",
-    "meaning": "liên quan"
+    "meaning": "liên quan",
+    "word": "relevant"
   },
   {
-    "word": "temporary",
-    "meaning": "tạm thời"
+    "meaning": "tạm thời",
+    "word": "temporary"
   },
   {
-    "word": "select",
-    "meaning": "lựa chọn"
+    "meaning": "lựa chọn",
+    "word": "select"
   },
   {
-    "word": "issue",
-    "meaning": "vấn đề"
+    "meaning": "vấn đề; phát hành",
+    "word": "issue"
   },
   {
-    "word": "sign up for",
-    "meaning": "đăng ký"
+    "meaning": "đăng ký",
+    "word": "sign up for"
   },
   {
-    "word": "resident",
-    "meaning": "người dân"
+    "meaning": "cư dân",
+    "word": "resident"
   },
   {
-    "word": "verify",
-    "meaning": "xác minh"
+    "meaning": "xác minh",
+    "word": "verify"
   },
   {
-    "word": "attract",
-    "meaning": "thu hút"
+    "meaning": "thu hút",
+    "word": "attract"
   },
   {
-    "word": "Q&A session",
-    "meaning": "phiên hỏi đáp"
+    "meaning": "phiên hỏi đáp",
+    "word": "Q&A session"
   },
   {
-    "word": "realistic",
-    "meaning": "thực tế"
+    "meaning": "thực tế",
+    "word": "realistic"
   },
   {
-    "word": "seating",
-    "meaning": "chỗ ngồi"
+    "meaning": "chỗ ngồi; việc sắp xếp chỗ ngồi",
+    "word": "seating"
   },
   {
-    "word": "allocate",
-    "meaning": "phân bổ"
+    "meaning": "phân bổ",
+    "word": "allocate"
   },
   {
-    "word": "inspect",
-    "meaning": "thanh tra"
+    "meaning": "kiểm tra",
+    "word": "inspect"
   },
   {
-    "word": "wise",
-    "meaning": "khôn ngoan"
+    "meaning": "khôn ngoan",
+    "word": "wise"
   },
   {
-    "word": "be + located",
-    "meaning": "được + định vị"
+    "meaning": "được đặt tại; tọa lạc tại",
+    "word": "be + located"
   },
   {
-    "word": "adjacent",
-    "meaning": "liền kề"
+    "meaning": "liền kề",
+    "word": "adjacent"
   },
   {
-    "word": "business plan",
-    "meaning": "kế hoạch kinh doanh"
+    "meaning": "kế hoạch kinh doanh",
+    "word": "business plan"
   },
   {
-    "word": "press release",
-    "meaning": "thông cáo báo chí"
+    "meaning": "thông cáo báo chí",
+    "word": "press release"
   },
   {
-    "word": "application",
-    "meaning": "ứng dụng"
+    "meaning": "đơn xin; ứng dụng",
+    "word": "application"
   },
   {
-    "word": "purpose",
-    "meaning": "mục đích"
+    "meaning": "mục đích",
+    "word": "purpose"
   },
   {
-    "word": "enjoyable",
-    "meaning": "thú vị"
+    "meaning": "thú vị; dễ chịu",
+    "word": "enjoyable"
   },
   {
-    "word": "evaluate",
-    "meaning": "đánh giá"
+    "meaning": "đánh giá",
+    "word": "evaluate"
   },
   {
-    "word": "conduct",
-    "meaning": "chỉ đạo"
+    "meaning": "tiến hành; thực hiện",
+    "word": "conduct"
   },
   {
-    "word": "head office",
-    "meaning": "trụ sở chính"
+    "meaning": "trụ sở chính",
+    "word": "head office"
   },
   {
-    "word": "crowd",
-    "meaning": "đám đông"
+    "meaning": "đám đông",
+    "word": "crowd"
   },
   {
-    "word": "distribution",
-    "meaning": "phân bổ"
+    "meaning": "sự phân phối",
+    "word": "distribution"
   },
   {
-    "word": "cancellation",
-    "meaning": "hủy bỏ"
+    "meaning": "sự hủy bỏ",
+    "word": "cancellation"
   },
   {
-    "word": "expand",
-    "meaning": "mở rộng"
+    "meaning": "mở rộng",
+    "word": "expand"
   },
   {
-    "word": "carry on",
-    "meaning": "tiếp tục"
+    "meaning": "tiếp tục",
+    "word": "carry on"
   },
   {
-    "word": "hold",
-    "meaning": "giữ"
+    "meaning": "tổ chức; giữ",
+    "word": "hold"
   },
   {
-    "word": "out of order",
-    "meaning": "không theo thứ tự"
+    "meaning": "bị hỏng",
+    "word": "out of order"
   },
   {
-    "word": "title",
-    "meaning": "tiêu đề"
+    "meaning": "chức danh; tiêu đề",
+    "word": "title"
   },
   {
-    "word": "estimate",
-    "meaning": "ước lượng"
+    "meaning": "ước tính",
+    "word": "estimate"
   },
   {
-    "word": "fad",
-    "meaning": "ham mê"
+    "meaning": "mốt nhất thời",
+    "word": "fad"
   },
   {
-    "word": "resign",
-    "meaning": "từ chức"
+    "meaning": "từ chức",
+    "word": "resign"
   },
   {
-    "word": "nominee",
-    "meaning": "người được đề cử"
+    "meaning": "người được đề cử",
+    "word": "nominee"
   },
   {
-    "word": "purchase",
-    "meaning": "mua"
+    "meaning": "mua; sự mua hàng",
+    "word": "purchase"
   },
   {
-    "word": "property",
-    "meaning": "tài sản"
+    "meaning": "tài sản; bất động sản",
+    "word": "property"
   },
   {
-    "word": "comparison",
-    "meaning": "so sánh"
+    "meaning": "sự so sánh",
+    "word": "comparison"
   },
   {
-    "word": "be + eligible for",
-    "meaning": "được + đủ điều kiện cho"
+    "meaning": "đủ điều kiện để nhận",
+    "word": "be + eligible for"
   },
   {
-    "word": "commitment",
-    "meaning": "sự cam kết"
+    "meaning": "cam kết",
+    "word": "commitment"
   },
   {
-    "word": "get in touch",
-    "meaning": "liên lạc"
+    "meaning": "liên lạc",
+    "word": "get in touch"
   },
   {
-    "word": "available",
-    "meaning": "có sẵn"
+    "meaning": "có sẵn",
+    "word": "available"
   },
   {
-    "word": "coupon",
-    "meaning": "phiếu giảm giá"
+    "meaning": "phiếu giảm giá",
+    "word": "coupon"
   },
   {
-    "word": "coordinate",
-    "meaning": "điều phối"
+    "meaning": "phối hợp",
+    "word": "coordinate"
   },
   {
-    "word": "in advance",
-    "meaning": "trước"
+    "meaning": "trước; trước khi diễn ra",
+    "word": "in advance"
   },
   {
-    "word": "employer",
-    "meaning": "nhà tuyển dụng"
+    "meaning": "người sử dụng lao động",
+    "word": "employer"
   },
   {
-    "word": "thorough",
-    "meaning": "kỹ lưỡng"
+    "meaning": "kỹ lưỡng",
+    "word": "thorough"
   },
   {
-    "word": "suitable",
-    "meaning": "thích hợp"
+    "meaning": "phù hợp",
+    "word": "suitable"
   },
   {
-    "word": "revenue",
-    "meaning": "doanh thu"
+    "meaning": "doanh thu",
+    "word": "revenue"
   },
   {
-    "word": "qualification",
-    "meaning": "trình độ chuyên môn"
+    "meaning": "trình độ; bằng cấp",
+    "word": "qualification"
   },
   {
-    "word": "standard",
-    "meaning": "tiêu chuẩn"
+    "meaning": "tiêu chuẩn",
+    "word": "standard"
   },
   {
-    "word": "stand out",
-    "meaning": "nổi bật"
+    "meaning": "nổi bật",
+    "word": "stand out"
   },
   {
-    "word": "receive",
-    "meaning": "nhận được"
+    "meaning": "nhận",
+    "word": "receive"
   },
   {
-    "word": "retire",
-    "meaning": "về hưu"
+    "meaning": "nghỉ hưu",
+    "word": "retire"
   },
   {
-    "word": "religion",
-    "meaning": "tôn giáo"
+    "meaning": "tôn giáo",
+    "word": "religion"
   },
   {
-    "word": "create",
-    "meaning": "tạo nên"
+    "meaning": "tạo ra",
+    "word": "create"
   },
   {
-    "word": "research",
-    "meaning": "nghiên cứu"
+    "meaning": "nghiên cứu",
+    "word": "research"
   },
   {
-    "word": "seminar",
-    "meaning": "hội thảo"
+    "meaning": "hội thảo",
+    "word": "seminar"
   },
   {
-    "word": "measure",
-    "meaning": "đo lường"
+    "meaning": "đo lường; biện pháp",
+    "word": "measure"
   },
   {
-    "word": "responsible for",
-    "meaning": "chịu trách nhiệm về"
+    "meaning": "chịu trách nhiệm về",
+    "word": "responsible for"
   },
   {
-    "word": "emerging",
-    "meaning": "đang nổi lên"
+    "meaning": "mới nổi; đang phát triển",
+    "word": "emerging"
   },
   {
-    "word": "satisfy",
-    "meaning": "thỏa mãn"
+    "meaning": "làm hài lòng; đáp ứng",
+    "word": "satisfy"
   },
   {
-    "word": "international",
-    "meaning": "quốc tế"
+    "meaning": "quốc tế",
+    "word": "international"
   },
   {
-    "word": "productive",
-    "meaning": "năng suất"
+    "meaning": "năng suất",
+    "word": "productive"
   },
   {
-    "word": "double-check",
-    "meaning": "kiểm tra lại"
+    "meaning": "kiểm tra lại",
+    "word": "double-check"
   },
   {
-    "word": "a variety of",
-    "meaning": "nhiều loại"
+    "meaning": "nhiều loại",
+    "word": "a variety of"
   },
   {
-    "word": "convention center",
-    "meaning": "trung tâm hội nghị"
+    "meaning": "trung tâm hội nghị",
+    "word": "convention center"
   },
   {
-    "word": "compare",
-    "meaning": "so sánh"
+    "meaning": "so sánh",
+    "word": "compare"
   },
   {
-    "word": "resource",
-    "meaning": "tài nguyên"
+    "meaning": "nguồn lực",
+    "word": "resource"
   },
   {
-    "word": "distinguished career",
-    "meaning": "sự nghiệp nổi bật"
+    "meaning": "sự nghiệp xuất sắc",
+    "word": "distinguished career"
   },
   {
-    "word": "accomplishment",
-    "meaning": "thành tựu"
+    "meaning": "thành tựu",
+    "word": "accomplishment"
   },
   {
-    "word": "prefer",
-    "meaning": "thích hơn"
+    "meaning": "thích hơn; ưu tiên",
+    "word": "prefer"
   },
   {
-    "word": "match",
-    "meaning": "cuộc thi đấu"
+    "meaning": "phù hợp; khớp",
+    "word": "match"
   },
   {
-    "word": "crowded",
-    "meaning": "đông đúc"
+    "meaning": "đông đúc",
+    "word": "crowded"
   },
   {
-    "word": "community",
-    "meaning": "cộng đồng"
+    "meaning": "cộng đồng",
+    "word": "community"
   },
   {
-    "word": "engage",
-    "meaning": "đính hôn"
+    "meaning": "tham gia; thu hút",
+    "word": "engage"
   },
   {
-    "word": "substitution",
-    "meaning": "thay thế"
+    "meaning": "sự thay thế",
+    "word": "substitution"
   },
   {
-    "word": "once in a while",
-    "meaning": "thỉnh thoảng"
+    "meaning": "thỉnh thoảng",
+    "word": "once in a while"
   },
   {
-    "word": "process",
-    "meaning": "quá trình"
+    "meaning": "quy trình; quá trình",
+    "word": "process"
   },
   {
-    "word": "budget",
-    "meaning": "ngân sách"
+    "meaning": "ngân sách",
+    "word": "budget"
   },
   {
-    "word": "position",
-    "meaning": "chức vụ"
+    "meaning": "vị trí; chức vụ",
+    "word": "position"
   },
   {
-    "word": "donate",
-    "meaning": "quyên tặng"
+    "meaning": "quyên góp",
+    "word": "donate"
   },
   {
-    "word": "maintenance",
-    "meaning": "bảo trì"
+    "meaning": "bảo trì",
+    "word": "maintenance"
   },
   {
-    "word": "personnel",
-    "meaning": "nhân viên"
+    "meaning": "nhân sự",
+    "word": "personnel"
   },
   {
-    "word": "look after",
-    "meaning": "chăm sóc"
+    "meaning": "chăm sóc; quản lý",
+    "word": "look after"
   },
   {
-    "word": "nominate",
-    "meaning": "đề cử"
+    "meaning": "đề cử",
+    "word": "nominate"
   },
   {
-    "word": "summary",
-    "meaning": "bản tóm tắt"
+    "meaning": "bản tóm tắt",
+    "word": "summary"
   },
   {
-    "word": "confidential",
-    "meaning": "bảo mật"
+    "meaning": "bảo mật",
+    "word": "confidential"
   },
   {
-    "word": "resolve",
-    "meaning": "giải quyết"
+    "meaning": "giải quyết",
+    "word": "resolve"
   },
   {
-    "word": "venue",
-    "meaning": "địa điểm"
+    "meaning": "địa điểm tổ chức",
+    "word": "venue"
   },
   {
-    "word": "experiment",
-    "meaning": "cuộc thí nghiệm"
+    "meaning": "thí nghiệm",
+    "word": "experiment"
   },
   {
-    "word": "overseas",
-    "meaning": "ở nước ngoài"
+    "meaning": "ở nước ngoài",
+    "word": "overseas"
   },
   {
-    "word": "exterior",
-    "meaning": "ngoại thất"
+    "meaning": "bên ngoài; ngoại thất",
+    "word": "exterior"
   },
   {
-    "word": "figure out",
-    "meaning": "tìm ra"
+    "meaning": "tìm ra; hiểu ra",
+    "word": "figure out"
   },
   {
-    "word": "prove",
-    "meaning": "chứng minh"
+    "meaning": "chứng minh",
+    "word": "prove"
   },
   {
-    "word": "witness",
-    "meaning": "nhân chứng"
+    "meaning": "nhân chứng; chứng kiến",
+    "word": "witness"
   },
   {
-    "word": "advice",
-    "meaning": "khuyên bảo"
+    "meaning": "lời khuyên",
+    "word": "advice"
   },
   {
-    "word": "consent",
-    "meaning": "bằng lòng"
+    "meaning": "sự đồng ý",
+    "word": "consent"
   },
   {
-    "word": "divorce",
-    "meaning": "ly hôn"
+    "meaning": "ly hôn",
+    "word": "divorce"
   },
   {
-    "word": "assist",
-    "meaning": "hỗ trợ"
+    "meaning": "hỗ trợ",
+    "word": "assist"
   },
   {
-    "word": "capacity",
-    "meaning": "dung tích"
+    "meaning": "sức chứa; năng lực",
+    "word": "capacity"
   },
   {
-    "word": "turn down",
-    "meaning": "từ chối"
+    "meaning": "từ chối",
+    "word": "turn down"
   },
   {
-    "word": "in person",
-    "meaning": "trực tiếp"
+    "meaning": "trực tiếp",
+    "word": "in person"
   },
   {
-    "word": "signature",
-    "meaning": "chữ ký"
+    "meaning": "chữ ký",
+    "word": "signature"
   },
   {
-    "word": "attendee",
-    "meaning": "người tham dự"
+    "meaning": "người tham dự",
+    "word": "attendee"
   },
   {
-    "word": "generous",
-    "meaning": "hào phóng"
+    "meaning": "hào phóng",
+    "word": "generous"
   },
   {
-    "word": "volunteer",
-    "meaning": "tình nguyện viên"
+    "meaning": "tình nguyện viên; tình nguyện",
+    "word": "volunteer"
   },
   {
-    "word": "distribute",
-    "meaning": "phân phát"
+    "meaning": "phân phát; phân phối",
+    "word": "distribute"
   },
   {
-    "word": "customize",
-    "meaning": "tùy chỉnh"
+    "meaning": "tùy chỉnh",
+    "word": "customize"
   },
   {
-    "word": "inspection",
-    "meaning": "điều tra"
+    "meaning": "sự kiểm tra",
+    "word": "inspection"
   },
   {
-    "word": "huge success",
-    "meaning": "thành công lớn"
+    "meaning": "thành công lớn",
+    "word": "huge success"
   },
   {
-    "word": "brand",
-    "meaning": "thương hiệu"
+    "meaning": "thương hiệu",
+    "word": "brand"
   },
   {
-    "word": "appoint",
-    "meaning": "bổ nhiệm"
+    "meaning": "bổ nhiệm",
+    "word": "appoint"
   },
   {
-    "word": "launch",
-    "meaning": "phóng"
+    "meaning": "ra mắt; khởi động",
+    "word": "launch"
   },
   {
-    "word": "receipt",
-    "meaning": "biên lai"
+    "meaning": "biên lai",
+    "word": "receipt"
   },
   {
-    "word": "destination",
-    "meaning": "điểm đến"
+    "meaning": "điểm đến",
+    "word": "destination"
   },
   {
-    "word": "attention",
-    "meaning": "chú ý"
+    "meaning": "sự chú ý",
+    "word": "attention"
   },
   {
-    "word": "renovation",
-    "meaning": "cải tạo"
+    "meaning": "sự cải tạo",
+    "word": "renovation"
   },
   {
-    "word": "overcrowded",
-    "meaning": "quá đông đúc"
+    "meaning": "quá đông đúc",
+    "word": "overcrowded"
   },
   {
-    "word": "accident",
-    "meaning": "tai nạn"
+    "meaning": "tai nạn",
+    "word": "accident"
   },
   {
-    "word": "tobe + delighted",
-    "meaning": "tobe + vui mừng"
+    "meaning": "vui mừng; hân hạnh",
+    "word": "tobe + delighted"
   },
   {
-    "word": "effort",
-    "meaning": "cố gắng"
+    "meaning": "nỗ lực",
+    "word": "effort"
   },
   {
-    "word": "reschedule",
-    "meaning": "lên lịch lại"
+    "meaning": "dời lịch; sắp xếp lại lịch",
+    "word": "reschedule"
   },
   {
-    "word": "transport",
-    "meaning": "chuyên chở"
+    "meaning": "vận chuyển; giao thông",
+    "word": "transport"
   },
   {
-    "word": "expense",
-    "meaning": "chi phí"
+    "meaning": "chi phí",
+    "word": "expense"
   },
   {
-    "word": "forecast",
-    "meaning": "dự báo"
+    "meaning": "dự báo",
+    "word": "forecast"
   },
   {
-    "word": "breach",
-    "meaning": "sự vi phạm"
+    "meaning": "sự vi phạm",
+    "word": "breach"
   },
   {
-    "word": "instead of…",
-    "meaning": "thay vì…"
+    "meaning": "thay vì",
+    "word": "instead of…"
   },
   {
-    "word": "career",
-    "meaning": "sự nghiệp"
+    "meaning": "sự nghiệp",
+    "word": "career"
   },
   {
-    "word": "collaboration",
-    "meaning": "sự hợp tác"
+    "meaning": "sự hợp tác",
+    "word": "collaboration"
   },
   {
-    "word": "compensation",
-    "meaning": "đền bù"
+    "meaning": "sự bồi thường; tiền thưởng",
+    "word": "compensation"
   },
   {
-    "word": "retail",
-    "meaning": "bán lẻ"
+    "meaning": "bán lẻ",
+    "word": "retail"
   },
   {
-    "word": "guideline",
-    "meaning": "hướng dẫn"
+    "meaning": "hướng dẫn",
+    "word": "guideline"
   },
   {
-    "word": "accommodate",
-    "meaning": "chứa"
+    "meaning": "đáp ứng; chứa; cung cấp chỗ ở",
+    "word": "accommodate"
   },
   {
-    "word": "document",
-    "meaning": "tài liệu"
+    "meaning": "tài liệu",
+    "word": "document"
   },
   {
-    "word": "component",
-    "meaning": "thành phần"
+    "meaning": "thành phần; bộ phận",
+    "word": "component"
   },
   {
-    "word": "wholesale",
-    "meaning": "bán buôn"
+    "meaning": "bán buôn",
+    "word": "wholesale"
   },
   {
-    "word": "conference",
-    "meaning": "hội nghị"
+    "meaning": "hội nghị",
+    "word": "conference"
   },
   {
-    "word": "impact",
-    "meaning": "sự va chạm"
+    "meaning": "tác động",
+    "word": "impact"
   },
   {
-    "word": "identity",
-    "meaning": "danh tính"
+    "meaning": "danh tính; bản sắc",
+    "word": "identity"
   },
   {
-    "word": "representative",
-    "meaning": "tiêu biểu"
+    "meaning": "đại diện",
+    "word": "representative"
   },
   {
-    "word": "job vacancy",
-    "meaning": "vị trí tuyển dụng"
+    "meaning": "vị trí tuyển dụng",
+    "word": "job vacancy"
   },
   {
-    "word": "diversity",
-    "meaning": "đa dạng"
+    "meaning": "sự đa dạng",
+    "word": "diversity"
   },
   {
-    "word": "consume",
-    "meaning": "tiêu thụ"
+    "meaning": "tiêu thụ",
+    "word": "consume"
   },
   {
-    "word": "in-person",
-    "meaning": "trực tiếp"
+    "meaning": "trực tiếp",
+    "word": "in-person"
   },
   {
-    "word": "word of mouth",
-    "meaning": "truyền miệng"
+    "meaning": "truyền miệng",
+    "word": "word of mouth"
   },
   {
-    "word": "gather",
-    "meaning": "tập trung"
+    "meaning": "tập hợp; thu thập",
+    "word": "gather"
   },
   {
-    "word": "reserve",
-    "meaning": "dự trữ"
+    "meaning": "đặt trước; dự trữ",
+    "word": "reserve"
   },
   {
-    "word": "produce",
-    "meaning": "sản xuất"
+    "meaning": "sản xuất",
+    "word": "produce"
   },
   {
-    "word": "ideal",
-    "meaning": "lý tưởng"
+    "meaning": "lý tưởng",
+    "word": "ideal"
   },
   {
-    "word": "persuasion",
-    "meaning": "sự thuyết phục"
+    "meaning": "sự thuyết phục",
+    "word": "persuasion"
   },
   {
-    "word": "brand awareness",
-    "meaning": "nhận thức về thương hiệu"
+    "meaning": "độ nhận diện thương hiệu",
+    "word": "brand awareness"
   },
   {
-    "word": "increase",
-    "meaning": "tăng"
+    "meaning": "tăng; sự gia tăng",
+    "word": "increase"
   },
   {
-    "word": "scheduling conflict",
-    "meaning": "xung đột lịch trình"
+    "meaning": "xung đột lịch trình",
+    "word": "scheduling conflict"
   },
   {
-    "word": "donation",
-    "meaning": "quyên góp"
+    "meaning": "khoản quyên góp",
+    "word": "donation"
   },
   {
-    "word": "renovate",
-    "meaning": "đổi mới"
+    "meaning": "cải tạo",
+    "word": "renovate"
   },
   {
-    "word": "warranty",
-    "meaning": "bảo hành"
+    "meaning": "bảo hành",
+    "word": "warranty"
   },
   {
-    "word": "be able to",
-    "meaning": "có thể"
+    "meaning": "có thể",
+    "word": "be able to"
   },
   {
-    "word": "revise",
-    "meaning": "ôn lại"
+    "meaning": "sửa đổi; ôn tập",
+    "word": "revise"
   },
   {
-    "word": "postpone",
-    "meaning": "hoãn"
+    "meaning": "hoãn lại",
+    "word": "postpone"
   },
   {
-    "word": "interior",
-    "meaning": "nội thất"
+    "meaning": "nội thất; bên trong",
+    "word": "interior"
   },
   {
-    "word": "helpful",
-    "meaning": "hữu ích"
+    "meaning": "hữu ích",
+    "word": "helpful"
   },
   {
-    "word": "renew",
-    "meaning": "gia hạn"
+    "meaning": "gia hạn; làm mới",
+    "word": "renew"
   },
   {
-    "word": "promotion",
-    "meaning": "khuyến mãi"
+    "meaning": "khuyến mãi; thăng chức",
+    "word": "promotion"
   },
   {
-    "word": "realize",
-    "meaning": "nhận ra"
+    "meaning": "nhận ra; thực hiện",
+    "word": "realize"
   },
   {
-    "word": "implement",
-    "meaning": "thực hiện"
+    "meaning": "triển khai; thực hiện",
+    "word": "implement"
   },
   {
-    "word": "inform",
-    "meaning": "thông báo"
+    "meaning": "thông báo",
+    "word": "inform"
   },
   {
-    "word": "consumer behavior",
-    "meaning": "hành vi người tiêu dùng"
+    "meaning": "hành vi người tiêu dùng",
+    "word": "consumer behavior"
   },
   {
-    "word": "exhibit",
-    "meaning": "triển lãm"
+    "meaning": "triển lãm; trưng bày",
+    "word": "exhibit"
   },
   {
-    "word": "charity",
-    "meaning": "tổ chức từ thiện"
+    "meaning": "từ thiện",
+    "word": "charity"
   },
   {
-    "word": "establish",
-    "meaning": "thành lập"
+    "meaning": "thành lập",
+    "word": "establish"
   },
   {
-    "word": "operate",
-    "meaning": "vận hành"
+    "meaning": "vận hành; hoạt động",
+    "word": "operate"
   },
   {
-    "word": "productivity",
-    "meaning": "năng suất"
+    "meaning": "năng suất",
+    "word": "productivity"
   },
   {
-    "word": "attend",
-    "meaning": "tham gia"
+    "meaning": "tham dự",
+    "word": "attend"
   },
   {
-    "word": "abundant",
-    "meaning": "dồi dào"
+    "meaning": "dồi dào",
+    "word": "abundant"
   },
   {
-    "word": "call off",
-    "meaning": "gọi tắt"
+    "meaning": "hủy bỏ",
+    "word": "call off"
   },
   {
-    "word": "reputation",
-    "meaning": "danh tiếng"
+    "meaning": "danh tiếng",
+    "word": "reputation"
   },
   {
-    "word": "prioritize",
-    "meaning": "ưu tiên"
+    "meaning": "ưu tiên",
+    "word": "prioritize"
   },
   {
-    "word": "national",
-    "meaning": "quốc gia"
+    "meaning": "quốc gia",
+    "word": "national"
   },
   {
-    "word": "privilege",
-    "meaning": "đặc quyền"
+    "meaning": "đặc quyền",
+    "word": "privilege"
   },
   {
-    "word": "finalize",
-    "meaning": "hoàn thiện"
+    "meaning": "hoàn tất",
+    "word": "finalize"
   },
   {
-    "word": "task",
-    "meaning": "nhiệm vụ"
+    "meaning": "nhiệm vụ",
+    "word": "task"
   },
   {
-    "word": "professional",
-    "meaning": "chuyên nghiệp"
+    "meaning": "chuyên nghiệp",
+    "word": "professional"
   },
   {
-    "word": "reach",
-    "meaning": "với tới"
+    "meaning": "đạt tới; liên hệ",
+    "word": "reach"
   },
   {
-    "word": "provider",
-    "meaning": "nhà cung cấp"
+    "meaning": "nhà cung cấp",
+    "word": "provider"
   },
   {
-    "word": "come up with",
-    "meaning": "nghĩ ra"
+    "meaning": "nghĩ ra",
+    "word": "come up with"
   },
   {
-    "word": "possible",
-    "meaning": "khả thi"
+    "meaning": "có thể",
+    "word": "possible"
   },
   {
-    "word": "applicant",
-    "meaning": "người xin việc"
+    "meaning": "ứng viên; người nộp đơn",
+    "word": "applicant"
   },
   {
-    "word": "amazing",
-    "meaning": "tuyệt vời"
+    "meaning": "tuyệt vời",
+    "word": "amazing"
   },
   {
-    "word": "location",
-    "meaning": "vị trí"
+    "meaning": "địa điểm",
+    "word": "location"
   },
   {
-    "word": "in a row",
-    "meaning": "liên tiếp"
+    "meaning": "liên tiếp",
+    "word": "in a row"
   },
   {
-    "word": "tourism",
-    "meaning": "du lịch"
+    "meaning": "du lịch",
+    "word": "tourism"
   },
   {
-    "word": "independent",
-    "meaning": "độc lập"
+    "meaning": "độc lập",
+    "word": "independent"
   },
   {
-    "word": "a wide range of",
-    "meaning": "một loạt các"
+    "meaning": "nhiều loại; đa dạng",
+    "word": "a wide range of"
   },
   {
-    "word": "assumption",
-    "meaning": "giả định"
+    "meaning": "giả định",
+    "word": "assumption"
   },
   {
-    "word": "custom-made",
-    "meaning": "tùy chỉnh thực hiện"
+    "meaning": "được làm theo yêu cầu",
+    "word": "custom-made"
   },
   {
-    "word": "terminate",
-    "meaning": "chấm dứt"
+    "meaning": "chấm dứt",
+    "word": "terminate"
   },
   {
-    "word": "replace",
-    "meaning": "thay thế"
+    "meaning": "thay thế",
+    "word": "replace"
   },
   {
-    "word": "objective",
-    "meaning": "khách quan"
+    "meaning": "mục tiêu",
+    "word": "objective"
   },
   {
-    "word": "be + held",
-    "meaning": "được + tổ chức"
+    "meaning": "được tổ chức",
+    "word": "be + held"
   },
   {
-    "word": "draft",
-    "meaning": "bản nháp"
+    "meaning": "bản nháp",
+    "word": "draft"
   },
   {
-    "word": "dependent",
-    "meaning": "sự phụ thuộc"
+    "meaning": "phụ thuộc",
+    "word": "dependent"
   },
   {
-    "word": "renowned",
-    "meaning": "nổi tiếng"
+    "meaning": "nổi tiếng",
+    "word": "renowned"
   },
   {
-    "word": "decrease",
-    "meaning": "giảm bớt"
+    "meaning": "giảm; sự giảm sút",
+    "word": "decrease"
   },
   {
-    "word": "look up",
-    "meaning": "tra cứu"
+    "meaning": "tra cứu",
+    "word": "look up"
   },
   {
-    "word": "job opening",
-    "meaning": "cơ hội việc làm"
+    "meaning": "vị trí đang tuyển dụng",
+    "word": "job opening"
   },
   {
-    "word": "auction",
-    "meaning": "đấu giá"
+    "meaning": "đấu giá",
+    "word": "auction"
   },
   {
-    "word": "potential",
-    "meaning": "tiềm năng"
+    "meaning": "tiềm năng",
+    "word": "potential"
   },
   {
-    "word": "visibility",
-    "meaning": "khả năng hiển thị"
+    "meaning": "khả năng hiển thị; tầm nhìn",
+    "word": "visibility"
   },
   {
-    "word": "register for",
-    "meaning": "đăng ký"
+    "meaning": "đăng ký tham gia",
+    "word": "register for"
   },
   {
-    "word": "presentation",
-    "meaning": "bài thuyết trình"
+    "meaning": "bài thuyết trình",
+    "word": "presentation"
   },
   {
-    "word": "remedy",
-    "meaning": "phương thuốc"
+    "meaning": "biện pháp khắc phục",
+    "word": "remedy"
   },
   {
-    "word": "contact",
-    "meaning": "liên hệ"
+    "meaning": "liên hệ",
+    "word": "contact"
   },
   {
-    "word": "specific",
-    "meaning": "cụ thể"
+    "meaning": "cụ thể",
+    "word": "specific"
   },
   {
-    "word": "surplus",
-    "meaning": "dư thừa"
+    "meaning": "thặng dư; dư thừa",
+    "word": "surplus"
   },
   {
-    "word": "mention",
-    "meaning": "đề cập đến"
+    "meaning": "đề cập",
+    "word": "mention"
   },
   {
-    "word": "resignation",
-    "meaning": "sự từ chức"
+    "meaning": "đơn từ chức",
+    "word": "resignation"
   },
   {
-    "word": "deserve",
-    "meaning": "xứng đáng"
+    "meaning": "xứng đáng",
+    "word": "deserve"
   },
   {
-    "word": "domestic",
-    "meaning": "nội địa"
+    "meaning": "trong nước; nội địa",
+    "word": "domestic"
   },
   {
-    "word": "speaker",
-    "meaning": "loa"
+    "meaning": "diễn giả",
+    "word": "speaker"
   },
   {
-    "word": "as soon as possible",
-    "meaning": "càng sớm càng tốt"
+    "meaning": "càng sớm càng tốt",
+    "word": "as soon as possible"
   },
   {
-    "word": "expert",
-    "meaning": "chuyên gia"
+    "meaning": "chuyên gia",
+    "word": "expert"
   },
   {
-    "word": "recipe",
-    "meaning": "công thức"
+    "meaning": "công thức nấu ăn",
+    "word": "recipe"
   },
   {
-    "word": "registration fee",
-    "meaning": "phí đăng ký"
+    "meaning": "phí đăng ký",
+    "word": "registration fee"
   },
   {
-    "word": "assistant",
-    "meaning": "trợ lý"
+    "meaning": "trợ lý",
+    "word": "assistant"
   },
   {
-    "word": "former",
-    "meaning": "trước"
+    "meaning": "trước đây; cựu",
+    "word": "former"
   },
   {
-    "word": "region (area)",
-    "meaning": "khu vực (khu vực)"
+    "meaning": "khu vực; vùng",
+    "word": "region (area)"
   },
   {
-    "word": "abide by",
-    "meaning": "tuân theo"
+    "meaning": "tuân thủ",
+    "word": "abide by"
   },
   {
-    "word": "indicate",
-    "meaning": "biểu thị"
+    "meaning": "chỉ ra; cho thấy",
+    "word": "indicate"
   },
   {
-    "word": "protect",
-    "meaning": "bảo vệ"
+    "meaning": "bảo vệ",
+    "word": "protect"
   },
   {
-    "word": "carry out",
-    "meaning": "tiến hành"
+    "meaning": "thực hiện",
+    "word": "carry out"
   },
   {
-    "word": "prohibit",
-    "meaning": "cấm"
+    "meaning": "cấm",
+    "word": "prohibit"
   },
   {
-    "word": "participate in",
-    "meaning": "tham gia vào"
+    "meaning": "tham gia",
+    "word": "participate in"
   },
   {
-    "word": "award ceremony",
-    "meaning": "lễ trao giải"
+    "meaning": "lễ trao giải",
+    "word": "award ceremony"
   },
   {
-    "word": "goal",
-    "meaning": "mục tiêu"
+    "meaning": "mục tiêu",
+    "word": "goal"
   },
   {
-    "word": "beneficial",
-    "meaning": "có lợi"
+    "meaning": "có lợi",
+    "word": "beneficial"
   },
   {
-    "word": "target",
-    "meaning": "mục tiêu"
+    "meaning": "mục tiêu; nhắm tới",
+    "word": "target"
   },
   {
-    "word": "ensure",
-    "meaning": "đảm bảo"
+    "meaning": "đảm bảo",
+    "word": "ensure"
   },
   {
-    "word": "satisfaction",
-    "meaning": "sự hài lòng"
+    "meaning": "sự hài lòng",
+    "word": "satisfaction"
   },
   {
-    "word": "performance review",
-    "meaning": "đánh giá hiệu suất"
+    "meaning": "đánh giá hiệu suất làm việc",
+    "word": "performance review"
   },
   {
-    "word": "feasible",
-    "meaning": "khả thi"
+    "meaning": "khả thi",
+    "word": "feasible"
   },
   {
-    "word": "ability",
-    "meaning": "khả năng"
+    "meaning": "khả năng",
+    "word": "ability"
   },
   {
-    "word": "promise",
-    "meaning": "hứa"
+    "meaning": "lời hứa",
+    "word": "promise"
   },
   {
-    "word": "résumé",
-    "meaning": "bản tóm tắt"
+    "meaning": "sơ yếu lý lịch; CV",
+    "word": "résumé"
   },
   {
-    "word": "emerging market",
-    "meaning": "thị trường mới nổi"
+    "meaning": "thị trường mới nổi",
+    "word": "emerging market"
   },
   {
-    "word": "schedule",
-    "meaning": "lịch trình"
+    "meaning": "lịch trình",
+    "word": "schedule"
   },
   {
-    "word": "otherwise",
-    "meaning": "nếu không thì"
+    "meaning": "nếu không thì",
+    "word": "otherwise"
   },
   {
-    "word": "exclude",
-    "meaning": "loại trừ"
+    "meaning": "loại trừ",
+    "word": "exclude"
   },
   {
-    "word": "expect",
-    "meaning": "trông chờ"
+    "meaning": "mong đợi",
+    "word": "expect"
   },
   {
-    "word": "membership",
-    "meaning": "tư cách thành viên"
+    "meaning": "tư cách thành viên",
+    "word": "membership"
   },
   {
-    "word": "authority",
-    "meaning": "thẩm quyền"
+    "meaning": "thẩm quyền; cơ quan chức năng",
+    "word": "authority"
   },
   {
-    "word": "preference",
-    "meaning": "sự ưa thích"
+    "meaning": "sự ưu tiên; sở thích",
+    "word": "preference"
   },
   {
-    "word": "brochure",
-    "meaning": "cuốn sách nhỏ"
+    "meaning": "tờ rơi; tập quảng cáo",
+    "word": "brochure"
   },
   {
-    "word": "negotiate",
-    "meaning": "thương lượng"
+    "meaning": "đàm phán",
+    "word": "negotiate"
   },
   {
-    "word": "go over",
-    "meaning": "đi qua"
+    "meaning": "xem xét lại",
+    "word": "go over"
   },
   {
-    "word": "make a reservation",
-    "meaning": "đặt chỗ trước"
+    "meaning": "đặt chỗ",
+    "word": "make a reservation"
   },
   {
-    "word": "arrangement",
-    "meaning": "sắp xếp"
+    "meaning": "sự sắp xếp; thỏa thuận",
+    "word": "arrangement"
   },
   {
-    "word": "adhere to",
-    "meaning": "tuân thủ"
+    "meaning": "tuân thủ",
+    "word": "adhere to"
   },
   {
-    "word": "handout",
-    "meaning": "tờ rơi"
+    "meaning": "tài liệu phát tay",
+    "word": "handout"
   },
   {
-    "word": "responsibility",
-    "meaning": "trách nhiệm"
+    "meaning": "trách nhiệm",
+    "word": "responsibility"
   },
   {
-    "word": "separate",
-    "meaning": "chia"
+    "meaning": "tách biệt; riêng biệt",
+    "word": "separate"
   },
   {
-    "word": "dozen",
-    "meaning": "tá"
+    "meaning": "một tá",
+    "word": "dozen"
   },
   {
-    "word": "multiple",
-    "meaning": "nhiều"
+    "meaning": "nhiều; đa dạng",
+    "word": "multiple"
   },
   {
-    "word": "require",
-    "meaning": "yêu cầu"
+    "meaning": "yêu cầu",
+    "word": "require"
   },
   {
-    "word": "be present",
-    "meaning": "có mặt"
+    "meaning": "có mặt",
+    "word": "be present"
   },
   {
-    "word": "tasty",
-    "meaning": "ngon"
+    "meaning": "ngon miệng",
+    "word": "tasty"
   },
   {
-    "word": "competition",
-    "meaning": "cuộc thi"
+    "meaning": "sự cạnh tranh; cuộc thi",
+    "word": "competition"
   },
   {
-    "word": "organizer",
-    "meaning": "người tổ chức"
+    "meaning": "người tổ chức",
+    "word": "organizer"
   },
   {
-    "word": "soil",
-    "meaning": "đất"
+    "meaning": "đất",
+    "word": "soil"
   },
   {
-    "word": "sales figure",
-    "meaning": "con số bán hàng"
+    "meaning": "doanh số bán hàng",
+    "word": "sales figure"
   },
   {
-    "word": "Competitive",
-    "meaning": "cạnh tranh"
+    "meaning": "cạnh tranh; có tính cạnh tranh",
+    "word": "competitive"
   },
   {
-    "word": "orphan",
-    "meaning": "mồ côi"
+    "meaning": "trẻ mồ côi",
+    "word": "orphan"
   },
   {
-    "word": "itinerary",
-    "meaning": "hành trình"
+    "meaning": "lịch trình chuyến đi",
+    "word": "itinerary"
   },
   {
-    "word": "allow",
-    "meaning": "cho phép"
+    "meaning": "cho phép",
+    "word": "allow"
   },
   {
-    "word": "yield",
-    "meaning": "năng suất"
+    "meaning": "mang lại; sản lượng",
+    "word": "yield"
   },
   {
-    "word": "loyal",
-    "meaning": "trung thành"
+    "meaning": "trung thành",
+    "word": "loyal"
   },
   {
-    "word": "pattern",
-    "meaning": "mẫu"
+    "meaning": "mẫu; xu hướng",
+    "word": "pattern"
   },
   {
-    "word": "recognition",
-    "meaning": "sự công nhận"
+    "meaning": "sự công nhận",
+    "word": "recognition"
   },
   {
-    "word": "achievement",
-    "meaning": "thành tích"
+    "meaning": "thành tựu",
+    "word": "achievement"
   },
   {
-    "word": "outstanding",
-    "meaning": "nổi bật"
+    "meaning": "xuất sắc; nổi bật",
+    "word": "outstanding"
   },
   {
-    "word": "investment",
-    "meaning": "sự đầu tư"
+    "meaning": "sự đầu tư",
+    "word": "investment"
   },
   {
-    "word": "milestone",
-    "meaning": "cột mốc quan trọng"
+    "meaning": "cột mốc",
+    "word": "milestone"
   },
   {
-    "word": "shore",
-    "meaning": "bờ biển"
+    "meaning": "bờ biển; bờ sông",
+    "word": "shore"
   },
   {
-    "word": "innovation",
-    "meaning": "sự đổi mới"
+    "meaning": "đổi mới; sáng tạo",
+    "word": "innovation"
   },
   {
-    "word": "transform",
-    "meaning": "biến đổi"
+    "meaning": "chuyển đổi",
+    "word": "transform"
   },
   {
-    "word": "workforce",
-    "meaning": "lực lượng lao động"
+    "meaning": "lực lượng lao động",
+    "word": "workforce"
   },
   {
-    "word": "generate",
-    "meaning": "phát ra"
+    "meaning": "tạo ra",
+    "word": "generate"
   },
   {
-    "word": "influence",
-    "meaning": "ảnh hưởng"
+    "meaning": "ảnh hưởng",
+    "word": "influence"
   },
   {
-    "word": "obviously",
-    "meaning": "rõ ràng"
+    "meaning": "rõ ràng",
+    "word": "obviously"
   },
   {
-    "word": "role",
-    "meaning": "vai trò"
+    "meaning": "vai trò",
+    "word": "role"
   },
   {
-    "word": "approve",
-    "meaning": "chấp thuận"
+    "meaning": "phê duyệt; chấp thuận",
+    "word": "approve"
   },
   {
-    "word": "take care of",
-    "meaning": "chăm sóc"
+    "meaning": "chăm sóc; xử lý",
+    "word": "take care of"
   },
   {
-    "word": "contract",
-    "meaning": "hợp đồng"
+    "meaning": "hợp đồng",
+    "word": "contract"
+  },
+  {
+    "meaning": "biết, nhận thức được",
+    "word": "aware"
+  },
+  {
+    "meaning": "sự biết, sự nhận thức",
+    "word": "awareness"
+  },
+  {
+    "meaning": "ba lô",
+    "word": "backpack"
+  },
+  {
+    "meaning": "lịch sự - lễ phép",
+    "word": "polite"
+  },
+  {
+    "meaning": "tuân thủ",
+    "word": "comply (with)"
+  },
+  {
+    "meaning": "việc thăm quan, ngắm cảnh",
+    "word": "sightseeing"
+  },
+  {
+    "meaning": "bảng câu hỏi (để khảo sát)",
+    "word": "questionnaire"
+  },
+  {
+    "meaning": "khoảng thời gian",
+    "word": "duration"
+  },
+  {
+    "meaning": "tính lặp đi lặp lại",
+    "word": "repetitive"
+  },
+  {
+    "meaning": "sở hữu",
+    "word": "own"
+  },
+  {
+    "meaning": "nợ (tiền, lòng biết ơn)",
+    "word": "owe"
+  },
+  {
+    "meaning": "thích nghi, thích ứng",
+    "word": "adapt"
+  },
+  {
+    "meaning": "nhận con nuôi áp dụng (cái mới)",
+    "word": "adopt"
+  },
+  {
+    "meaning": "trẻ tuổi",
+    "word": "young"
+  },
+  {
+    "meaning": "tuổi trẻ",
+    "word": "youth"
+  },
+  {
+    "meaning": "chiếu sáng, tỏa sáng",
+    "word": "shine"
+  },
+  {
+    "meaning": "báo thức (N) cảnh báo, báo động (V)",
+    "word": "alarm"
+  },
+  {
+    "meaning": "giải cứu",
+    "word": "rescue"
+  },
+  {
+    "meaning": "người bán hàng rong",
+    "word": "vendor"
+  },
+  {
+    "meaning": "máy bán hàng tự động",
+    "word": "vending machine"
+  },
+  {
+    "meaning": "thuộc về nông nghiệp",
+    "word": "agricultural"
+  },
+  {
+    "meaning": "phúc lợi – an sinh",
+    "word": "welfare"
+  },
+  {
+    "meaning": "vô nghĩa – vô dụng",
+    "word": "pointless"
+  },
+  {
+    "meaning": "tiền công (theo giờ)",
+    "word": "wage"
+  },
+  {
+    "meaning": "tiền lương (theo tháng)",
+    "word": "salary"
+  },
+  {
+    "meaning": "khoảng chừng - xấp xỉ",
+    "word": "roughly"
+  },
+  {
+    "meaning": "đơn giản hóa",
+    "word": "simplify"
+  },
+  {
+    "meaning": "món chính của bữa ăn",
+    "word": "entrée"
+  },
+  {
+    "meaning": "phi thường - xuất sắc",
+    "word": "remarkable"
+  },
+  {
+    "meaning": "mã vạch trên món hành",
+    "word": "barcode"
+  },
+  {
+    "meaning": "chống nước - ko thấm nước",
+    "word": "waterproof"
+  },
+  {
+    "meaning": "rút tiền - rút lui",
+    "word": "withdraw"
+  },
+  {
+    "meaning": "sự rút tiền - sự rút lui",
+    "word": "withdrawal"
+  },
+  {
+    "meaning": "tiết kiệm – ko lãng phí",
+    "word": "economical"
+  },
+  {
+    "meaning": "nền kinh tế",
+    "word": "economy"
+  },
+  {
+    "meaning": "thuộc về kinh tế",
+    "word": "economic"
+  },
+  {
+    "meaning": "môn kinh tế học",
+    "word": "economics"
+  },
+  {
+    "meaning": "điệu bộ, cử chỉ",
+    "word": "gesture"
+  },
+  {
+    "meaning": "có tính thuyết phục cao",
+    "word": "convincing"
+  },
+  {
+    "meaning": "tiếp quản – thôn tính (cty)",
+    "word": "takeover"
+  },
+  {
+    "meaning": "giống với (ai, cái gì đó)",
+    "word": "resemble"
+  },
+  {
+    "meaning": "lắp ráp - tụ tập",
+    "word": "assemble"
+  },
+  {
+    "meaning": "kiếm (tiền) giành được (sự tôn trọng, uy tín)",
+    "word": "earn"
+  },
+  {
+    "meaning": "thu nhập",
+    "word": "earnings"
+  },
+  {
+    "meaning": "cuộc bỏ phiếu cuộc khảo sát ý kiến",
+    "word": "poll"
+  },
+  {
+    "meaning": "ngăn chặn",
+    "word": "prevent"
+  },
+  {
+    "meaning": "thư giản – nghỉ ngơi",
+    "word": "relax"
+  },
+  {
+    "meaning": "sự thư giản - sự nghỉ",
+    "word": "relaxation"
+  },
+  {
+    "meaning": "ca làm việc (N) thay đổi - dịch chyển (V)",
+    "word": "shift"
+  },
+  {
+    "meaning": "tình huống – hoàn cảnh",
+    "word": "situation"
+  },
+  {
+    "meaning": "kết luận",
+    "word": "conclude"
+  },
+  {
+    "meaning": "khối tài sản sự giàu có",
+    "word": "wealth"
+  },
+  {
+    "meaning": "dần dần - từng bước 1",
+    "word": "gradually"
+  },
+  {
+    "meaning": "phù hợp – thích hợp",
+    "word": "appropriate"
+  },
+  {
+    "meaning": "hợp pháp",
+    "word": "legal"
+  },
+  {
+    "meaning": "bất hợp pháp",
+    "word": "illegal"
+  },
+  {
+    "meaning": "than phiền",
+    "word": "complain"
+  },
+  {
+    "meaning": "nơi làm việc",
+    "word": "workplace"
+  },
+  {
+    "meaning": "ổn định – ko có biến",
+    "word": "stable"
+  },
+  {
+    "meaning": "sự thiếu hụt",
+    "word": "shortage"
+  },
+  {
+    "meaning": "lạc quan",
+    "word": "optimistic"
+  },
+  {
+    "meaning": "bi quan",
+    "word": "pessimistic"
+  },
+  {
+    "meaning": "các tiêu chí",
+    "word": "criteria"
+  },
+  {
+    "meaning": "đáng kể - to lớn",
+    "word": "considerable"
+  },
+  {
+    "meaning": "cơ hội - thời cơ",
+    "word": "opportunity"
+  },
+  {
+    "meaning": "có trị giá bao nhiêu đó",
+    "word": "worth"
+  },
+  {
+    "meaning": "xứng đáng – có giá trị",
+    "word": "worthy"
+  },
+  {
+    "meaning": "ko có giá trị - ko có ích",
+    "word": "worthless"
+  },
+  {
+    "meaning": "khôi phục – phục hồi",
+    "word": "restore"
+  },
+  {
+    "meaning": "người đưa thư",
+    "word": "courier"
+  },
+  {
+    "meaning": "bén - nhọn",
+    "word": "sharp"
+  },
+  {
+    "meaning": "từ chối",
+    "word": "reject"
+  },
+  {
+    "meaning": "nỗi rất rất rất buồn",
+    "word": "grief"
+  },
+  {
+    "meaning": "hệ thống",
+    "word": "system"
+  },
+  {
+    "meaning": "có tính hệ thống, khoa học",
+    "word": "systematic"
+  },
+  {
+    "meaning": "khán giả",
+    "word": "spectator"
+  },
+  {
+    "meaning": "gói lại - bọc lại",
+    "word": "wrap"
+  },
+  {
+    "meaning": "bóc ra",
+    "word": "unwrap"
+  },
+  {
+    "meaning": "sự tôn trọng - tôn trọng",
+    "word": "respect"
+  },
+  {
+    "meaning": "cùn (dao) tẻ nhạt",
+    "word": "dull"
+  },
+  {
+    "meaning": "cắm điện",
+    "word": "plug in"
+  },
+  {
+    "meaning": "xe đưa đón",
+    "word": "shuttle"
+  },
+  {
+    "meaning": "- tuyệt vọng - liều lĩnh - rất muốn gì đó bằng mọi giá",
+    "word": "desperate"
+  },
+  {
+    "meaning": "ý kiến",
+    "word": "opinion"
+  },
+  {
+    "meaning": "kháng cự lại - chống lại",
+    "word": "resist"
+  },
+  {
+    "meaning": "quyết liệt - cực kì - mạnh mẽ (dùng cho sự THAY ĐỔI, BIỆN PHÁT chứ ít dùng cho người)",
+    "word": "drastic"
+  },
+  {
+    "meaning": "bằng cấp mức độ độ (nhiệt độ)",
+    "word": "degree"
+  },
+  {
+    "meaning": "thư kí bộ trưởng",
+    "word": "secretary"
+  },
+  {
+    "meaning": "người đi làm hằng ngày bằng phương tiện giao thông",
+    "word": "commuter"
+  },
+  {
+    "meaning": "đi làm hằng ngày bằng phương tiện giao thông",
+    "word": "commute"
+  },
+  {
+    "meaning": "?",
+    "word": "obligate"
+  },
+  {
+    "meaning": "nghĩa vụ - bổn phận",
+    "word": "obligation"
+  },
+  {
+    "meaning": "ngớ ngẩn - gây khó xử",
+    "word": "awkward"
+  },
+  {
+    "meaning": "đồng phục",
+    "word": "uniform"
+  },
+  {
+    "meaning": "điều hành - kiểm soát",
+    "word": "regulate"
+  },
+  {
+    "meaning": "giá trị - coi trọng",
+    "word": "value"
+  },
+  {
+    "meaning": "tài sản quý giá",
+    "word": "valuables"
+  },
+  {
+    "meaning": "nhanh chóng",
+    "word": "prompt"
+  },
+  {
+    "meaning": "chật hẹp",
+    "word": "narrow"
+  },
+  {
+    "meaning": "phát hiện - tìm ra",
+    "word": "detect"
+  },
+  {
+    "meaning": "đủ để hài lòng (ko quá xuất sắc, cũng ko quá tệ)",
+    "word": "satisfactory"
+  },
+  {
+    "meaning": "sân vận động",
+    "word": "stadium"
+  },
+  {
+    "meaning": "dịch vụ điện nước….",
+    "word": "utilities"
+  },
+  {
+    "meaning": "chủ tịch",
+    "word": "chairman"
+  },
+  {
+    "meaning": "diễn tập",
+    "word": "rehearse"
+  },
+  {
+    "meaning": "bìa kẹp tài liệu",
+    "word": "binder"
+  },
+  {
+    "meaning": "mới nhất, hiện đại nhất",
+    "word": "cutting edge"
+  },
+  {
+    "meaning": "bảo vệ",
+    "word": "protect"
+  },
+  {
+    "meaning": "cặp đựng tài liệu",
+    "word": "briefcase"
+  },
+  {
+    "meaning": "nhà kho",
+    "word": "warehouse"
+  },
+  {
+    "meaning": "đa dạng, nhiều loại khác nhau",
+    "word": "various"
+  },
+  {
+    "meaning": "bàn chải chải",
+    "word": "brush"
+  },
+  {
+    "meaning": "lên tàu/máy bay",
+    "word": "embark"
+  },
+  {
+    "meaning": "sự gián đoạn",
+    "word": "disruption"
+  },
+  {
+    "meaning": "bảng báo giá",
+    "word": "quote"
+  },
+  {
+    "meaning": "hối tiếc",
+    "word": "regret"
+  },
+  {
+    "meaning": "việc tiêm vắc-xin",
+    "word": "vaccination"
+  },
+  {
+    "meaning": "thuận lợi",
+    "word": "favorable"
+  },
+  {
+    "meaning": "không thuận lợi",
+    "word": "unfavorable"
+  },
+  {
+    "meaning": "giả thuyết lí thuyết",
+    "word": "theory"
+  },
+  {
+    "meaning": "thuộc về điện",
+    "word": "electrical"
+  },
+  {
+    "meaning": "màn hình (N) giám sát (V)",
+    "word": "monitor"
+  },
+  {
+    "meaning": "thẻ lên máy bay, tàu",
+    "word": "boarding pass"
+  },
+  {
+    "meaning": "hiếm, hiếm có",
+    "word": "rare"
+  },
+  {
+    "meaning": "bưu kiện, gói hàng",
+    "word": "parcel"
+  },
+  {
+    "meaning": "bước đi",
+    "word": "step"
+  },
+  {
+    "meaning": "dốc (con đường)",
+    "word": "steep"
+  },
+  {
+    "meaning": "nghi ngờ",
+    "word": "suspicious"
+  },
+  {
+    "meaning": "khăn ăn",
+    "word": "napkin"
+  },
+  {
+    "meaning": "ngắt kết nối",
+    "word": "disconnect"
+  },
+  {
+    "meaning": "gây hiểu lầm",
+    "word": "misleading"
+  },
+  {
+    "meaning": "vô điều kiện",
+    "word": "unconditional"
+  },
+  {
+    "meaning": "nguyên liệu thô",
+    "word": "raw materials"
+  },
+  {
+    "meaning": "động lực",
+    "word": "motivation"
+  },
+  {
+    "meaning": "nhược điểm, khuyết tật",
+    "word": "defect"
+  },
+  {
+    "meaning": "bị lỗi, hỏng",
+    "word": "defective"
+  },
+  {
+    "meaning": "bản ghi nhớ",
+    "word": "memo"
+  },
+  {
+    "meaning": "hợp lý, phải chăng (giá cả)",
+    "word": "reasonable"
+  },
+  {
+    "meaning": "sự thế chấp",
+    "word": "mortgage"
+  },
+  {
+    "meaning": "hoàn cảnh, trường hợp",
+    "word": "circumstance"
+  },
+  {
+    "meaning": "đường băng (sân bay)",
+    "word": "runway"
+  },
+  {
+    "meaning": "chiến thắng lớn",
+    "word": "triumph"
+  },
+  {
+    "meaning": "khủng khiếp, tồi tệ",
+    "word": "terrible"
+  },
+  {
+    "meaning": "tuyệt vời",
+    "word": "terrific"
+  },
+  {
+    "meaning": "nhiên liệu",
+    "word": "fuel"
+  },
+  {
+    "meaning": "gần đây",
+    "word": "recent"
+  },
+  {
+    "meaning": "bao quanh (V)",
+    "word": "surround"
+  },
+  {
+    "meaning": "bị vây quanh (ADJ)",
+    "word": "surrounded"
+  },
+  {
+    "meaning": "bao quanh (ADJ)",
+    "word": "surrounding"
+  },
+  {
+    "meaning": "tăng cường, thúc đẩy",
+    "word": "boost"
+  },
+  {
+    "meaning": "không đồng ý",
+    "word": "disagree"
+  },
+  {
+    "meaning": "xa hơn nữa, thêm nữa",
+    "word": "further"
+  },
+  {
+    "meaning": "- ngôi sao",
+    "word": "star"
+  },
+  {
+    "meaning": "- nhìn chằm chằm",
+    "word": "stare"
+  },
+  {
+    "meaning": "ghen tị, đố kỵ",
+    "word": "jealous"
+  },
+  {
+    "meaning": "duy trì; bảo dưỡng",
+    "word": "maintain"
+  },
+  {
+    "meaning": "khí hậu",
+    "word": "climate"
+  },
+  {
+    "meaning": "điền thông tin vào",
+    "word": "fill out"
+  },
+  {
+    "meaning": "đặc biệt",
+    "word": "special"
+  },
+  {
+    "meaning": "chuyên về",
+    "word": "specialize"
+  },
+  {
+    "meaning": "đặc sản",
+    "word": "specialty"
+  },
+  {
+    "meaning": "thông số kỹ thuật",
+    "word": "specification"
+  },
+  {
+    "meaning": "chính xác",
+    "word": "accurate"
+  },
+  {
+    "meaning": "gấp, gập lại",
+    "word": "fold"
+  },
+  {
+    "meaning": "người thuê nhà",
+    "word": "tenant"
+  },
+  {
+    "meaning": "người tham gia",
+    "word": "participant"
+  },
+  {
+    "meaning": "cô lập, cách ly",
+    "word": "isolate"
+  },
+  {
+    "meaning": "ngụ ý, ám chỉ",
+    "word": "imply"
+  },
+  {
+    "meaning": "hủy hoại",
+    "word": "jeopardize"
+  },
+  {
+    "meaning": "tuyển dụng",
+    "word": "recruit"
+  },
+  {
+    "meaning": "đồ đạt cá nhân",
+    "word": "belongings"
+  },
+  {
+    "meaning": "nướng",
+    "word": "grill"
+  },
+  {
+    "meaning": "hoàn thành đáp ứng (yêu cầu) thực hiện (lời hứa)",
+    "word": "fulfill"
+  },
+  {
+    "meaning": "= about",
+    "word": "regarding"
+  },
+  {
+    "meaning": "doanh nghiệp",
+    "word": "enterprise"
+  },
+  {
+    "meaning": "tương đương",
+    "word": "equivalent"
+  },
+  {
+    "meaning": "chỉ trích, phê bình",
+    "word": "criticize"
+  },
+  {
+    "meaning": "tính toán",
+    "word": "calculate"
+  },
+  {
+    "meaning": "đội, đoàn, phi hành đoàn",
+    "word": "crew"
+  },
+  {
+    "meaning": "khởi hành, rời đi",
+    "word": "depart"
+  },
+  {
+    "meaning": "sự khởi hành",
+    "word": "departure"
+  },
+  {
+    "meaning": "khám phá",
+    "word": "explore"
+  },
+  {
+    "meaning": "sự thám hiểm",
+    "word": "exploration"
+  },
+  {
+    "meaning": "điều tra",
+    "word": "investigate"
+  },
+  {
+    "meaning": "biện hộ, chứng minh là đúng",
+    "word": "justify"
+  },
+  {
+    "meaning": "mô tả",
+    "word": "describe"
+  },
+  {
+    "meaning": "sự mô tả",
+    "word": "description"
+  },
+  {
+    "meaning": "hóa đơn tính tiền",
+    "word": "invoice"
+  },
+  {
+    "meaning": "tiện dụng",
+    "word": "handy"
+  },
+  {
+    "meaning": "bằng chứng, chứng cứ",
+    "word": "evidence"
+  },
+  {
+    "meaning": "đặc điểm, đặc tính",
+    "word": "characteristic"
+  },
+  {
+    "meaning": "tiến hóa",
+    "word": "evolve"
+  },
+  {
+    "meaning": "nhân viên bán hàng",
+    "word": "clerk"
+  },
+  {
+    "meaning": "kiên nhẫn (ADJ) , bệnh nhân (N)",
+    "word": "patient"
+  },
+  {
+    "meaning": "thiếu kiên nhẫn (ADJ)",
+    "word": "impatient"
+  },
+  {
+    "meaning": "cho phép (V)",
+    "word": "enable"
+  },
+  {
+    "meaning": "thuộc về mặt trời",
+    "word": "solar"
+  },
+  {
+    "meaning": "lỗi lầm, khuyết điểm",
+    "word": "fault"
+  },
+  {
+    "meaning": "chức năng (N) hoạt động, chạy (V)",
+    "word": "function"
+  },
+  {
+    "meaning": "đủ",
+    "word": "adequate"
+  },
+  {
+    "meaning": "sự đóng cửa",
+    "word": "closure"
+  },
+  {
+    "meaning": "gia súc, vật nuôi",
+    "word": "livestock"
+  },
+  {
+    "meaning": "huấn luyện viên xe khách",
+    "word": "coach"
+  },
+  {
+    "meaning": "vốn liếng thủ đô chữ viết hoa",
+    "word": "capital"
+  },
+  {
+    "meaning": "cao tuổi, già cả",
+    "word": "elderly"
+  },
+  {
+    "meaning": "mong đợi - kì vọng",
+    "word": "expect"
+  },
+  {
+    "meaning": "sự mong đợi, sự kì vọng",
+    "word": "expectation"
+  },
+  {
+    "meaning": "say mê, thích thú",
+    "word": "keen"
+  },
+  {
+    "meaning": "sự đấu thầu",
+    "word": "bid"
+  },
+  {
+    "meaning": "cẩu thả",
+    "word": "careless"
+  },
+  {
+    "meaning": "vô tư, không lo nghĩ",
+    "word": "carefree"
+  },
+  {
+    "meaning": "uyên bác, kiến thức cao",
+    "word": "knowledgeable"
+  },
+  {
+    "meaning": "ngắt lời, làm gián đoạn",
+    "word": "interrupt"
+  },
+  {
+    "meaning": "- bị cho nghỉ việc (do công ty cắt giảm nhân sự)",
+    "word": "be + laid off"
+  },
+  {
+    "meaning": "- bị đuổi việc (do vi phạm)",
+    "word": "be + fired"
+  },
+  {
+    "meaning": "zeit rảnh rỗi sự thư thả",
+    "word": "leisure"
+  },
+  {
+    "meaning": "sự chi tiêu",
+    "word": "expenditure"
+  },
+  {
+    "meaning": "bến cảng",
+    "word": "harbor"
+  },
+  {
+    "meaning": "thắc mắc – câu hỏi",
+    "word": "inquiry"
+  },
+  {
+    "meaning": "phát minh, sáng chế ra",
+    "word": "invent"
+  },
+  {
+    "meaning": "sự phát minh",
+    "word": "invention"
+  },
+  {
+    "meaning": "chuỗi hệ thống cửa hàng",
+    "word": "chain store"
+  },
+  {
+    "meaning": "cho mượn",
+    "word": "lend"
+  },
+  {
+    "meaning": "trình duyệt web",
+    "word": "browser"
+  },
+  {
+    "meaning": "dao động, biến động liên tục",
+    "word": "fluctuate"
+  },
+  {
+    "meaning": "chỉ trích nguy kịch mang tính quyết định",
+    "word": "critical"
+  },
+  {
+    "meaning": "hợp đồng cho thuê",
+    "word": "lease"
+  },
+  {
+    "meaning": "ngưỡng mộ, khâm phục",
+    "word": "admire"
+  },
+  {
+    "meaning": "cố vấn",
+    "word": "consultant"
+  },
+  {
+    "meaning": "chứng chỉ, bằng cấp",
+    "word": "credentials"
+  },
+  {
+    "meaning": "trang trí, trang hoàng",
+    "word": "decorate"
+  },
+  {
+    "meaning": "sức mạnh, lực lượng (N) bắt buộc, ép buộc (V)",
+    "word": "force"
+  },
+  {
+    "meaning": "phổ biến, thông thường / phổ biến – chung",
+    "word": "common"
+  },
+  {
+    "meaning": "chuyến tham quan",
+    "word": "excursion"
+  },
+  {
+    "meaning": "từ chối, khước từ",
+    "word": "refuse"
+  },
+  {
+    "meaning": "sự từ chối",
+    "word": "refusal"
+  },
+  {
+    "meaning": "sự lạm phát",
+    "word": "inflation"
+  },
+  {
+    "meaning": "thành thạo - giỏi – đủ năng lực",
+    "word": "competent"
+  },
+  {
+    "meaning": "nơi nhận hành lý",
+    "word": "baggage claim"
+  },
+  {
+    "meaning": "ngay lập tức",
+    "word": "immediate"
+  },
+  {
+    "meaning": "chứng chỉ, văn bằng",
+    "word": "certificate"
+  },
+  {
+    "meaning": "nguy hiểm (sức khỏe)",
+    "word": "hazardous"
+  },
+  {
+    "meaning": "tựa vào, ngả người vào",
+    "word": "lean against"
+  },
+  {
+    "meaning": "tương thích, hợp nhau",
+    "word": "compatible"
+  },
+  {
+    "meaning": "thiếu kinh nghiệm, non nớt",
+    "word": "inexperienced"
+  },
+  {
+    "meaning": "bắt buộc",
+    "word": "compulsory"
+  },
+  {
+    "meaning": "giấy phép",
+    "word": "license"
+  },
+  {
+    "meaning": "mặc cả giá (V) món hời (N)",
+    "word": "bargain"
+  },
+  {
+    "meaning": "toàn diện, đầy đủ",
+    "word": "comprehensive"
+  },
+  {
+    "meaning": "trốn, che giấu",
+    "word": "hide"
+  },
+  {
+    "meaning": "không phù hợp, không đúng mực",
+    "word": "improper"
+  },
+  {
+    "meaning": "công cụ tìm kiếm",
+    "word": "search engine"
+  },
+  {
+    "meaning": "hậu quả, kết quả",
+    "word": "consequence"
+  },
+  {
+    "meaning": "cắt giảm, làm giảm bớt",
+    "word": "reduce"
+  },
+  {
+    "meaning": "sự cắt giảm, sự sụt giảm",
+    "word": "reduction"
+  },
+  {
+    "meaning": "kiểm tra cẩn thận",
+    "word": "scrutinize"
+  },
+  {
+    "meaning": "do dự, ngập ngừng, lưỡng lự",
+    "word": "hesitate"
+  },
+  {
+    "meaning": "mở rộng, nới rộng",
+    "word": "broaden"
+  },
+  {
+    "meaning": "cư xử, hành xử",
+    "word": "behave"
+  },
+  {
+    "meaning": "nhất quán, kiên định",
+    "word": "consistent"
+  },
+  {
+    "meaning": "rất quan trọng",
+    "word": "crucial"
+  },
+  {
+    "meaning": "sự ưu tiên",
+    "word": "priority"
+  },
+  {
+    "meaning": "thỏa hiệp",
+    "word": "compromise"
+  },
+  {
+    "meaning": "đáng tin cậy",
+    "word": "reliable"
+  },
+  {
+    "meaning": "thường xuyên",
+    "word": "frequent"
+  },
+  {
+    "meaning": "quan sát",
+    "word": "observe"
+  },
+  {
+    "meaning": "thiết yếu, rất cần thiết",
+    "word": "essential"
+  },
+  {
+    "meaning": "hiệu quả",
+    "word": "efficient"
+  },
+  {
+    "meaning": "điều chỉnh",
+    "word": "adjust"
+  },
+  {
+    "meaning": "đáng kể, quan trọng",
+    "word": "significant"
+  },
+  {
+    "meaning": "thời lượng",
+    "word": "duration"
+  },
+  {
+    "meaning": "mơ hồ",
+    "word": "vague"
+  },
+  {
+    "meaning": "ghế sofa",
+    "word": "couch"
+  },
+  {
+    "meaning": "ghế đơn có tay vịn",
+    "word": "armchair"
+  },
+  {
+    "meaning": "kệ sách",
+    "word": "bookshelf"
+  },
+  {
+    "meaning": "đèn",
+    "word": "lamp"
+  },
+  {
+    "meaning": "tấm thảm",
+    "word": "rug / carpet"
+  },
+  {
+    "meaning": "rèm cửa",
+    "word": "curtain"
+  },
+  {
+    "meaning": "điều khiển từ xa",
+    "word": "remote control"
+  },
+  {
+    "meaning": "khung (khung tranh / khung ảnh)",
+    "word": "frame"
+  },
+  {
+    "meaning": "gối tựa / gối ngủ",
+    "word": "cushion / pillow"
+  },
+  {
+    "meaning": "chăn - mền",
+    "word": "blanket"
+  },
+  {
+    "meaning": "tấm nệm",
+    "word": "mattress"
+  },
+  {
+    "meaning": "tủ quần áo",
+    "word": "wardrobe"
+  },
+  {
+    "meaning": "tủ quần áo",
+    "word": "closet"
+  },
+  {
+    "meaning": "gương",
+    "word": "mirror"
+  },
+  {
+    "meaning": "đồng hồ báo thức",
+    "word": "alarm clock"
+  },
+  {
+    "meaning": "bồn rửa",
+    "word": "sink"
+  },
+  {
+    "meaning": "vòi nước",
+    "word": "faucet"
+  },
+  {
+    "meaning": "vòi sen",
+    "word": "shower"
+  },
+  {
+    "meaning": "bồn tắm",
+    "word": "bathtub"
+  },
+  {
+    "meaning": "khăn tắm",
+    "word": "towel"
+  },
+  {
+    "meaning": "giá treo",
+    "word": "rack"
+  },
+  {
+    "meaning": "xà phòng",
+    "word": "soap"
+  },
+  {
+    "meaning": "dầu gội",
+    "word": "shampoo"
+  },
+  {
+    "meaning": "bàn chải đánh răng",
+    "word": "toothbrush"
+  },
+  {
+    "meaning": "giấy vệ sinh",
+    "word": "toilet paper"
+  },
+  {
+    "meaning": "tủ lạnh",
+    "word": "refrigerator / fridge"
+  },
+  {
+    "meaning": "cái bếp",
+    "word": "stove"
+  },
+  {
+    "meaning": "lò nướng",
+    "word": "oven"
+  },
+  {
+    "meaning": "lò vi sóng",
+    "word": "microwave"
+  },
+  {
+    "meaning": "tủ lạnh mini",
+    "word": "minibar"
+  },
+  {
+    "meaning": "máy rửa chén",
+    "word": "dishwasher"
+  },
+  {
+    "meaning": "tủ bếp / tủ đựng đồ",
+    "word": "cabinet"
+  },
+  {
+    "meaning": "mặt bếp / quầy bếp / mặt phẳng",
+    "word": "counter"
+  },
+  {
+    "meaning": "ấm đun nước",
+    "word": "kettle"
+  },
+  {
+    "meaning": "nồi",
+    "word": "pot"
+  },
+  {
+    "meaning": "chảo",
+    "word": "pan"
+  },
+  {
+    "meaning": "đĩa",
+    "word": "plate"
+  },
+  {
+    "meaning": "cái tô – cái bát",
+    "word": "bowl"
+  },
+  {
+    "meaning": "cốc có quai",
+    "word": "mug"
+  },
+  {
+    "meaning": "tạp dề",
+    "word": "apron"
+  },
+  {
+    "meaning": "dụng cụ nhà bếp",
+    "word": "utensil"
+  },
+  {
+    "meaning": "thớt",
+    "word": "cutting board"
+  },
+  {
+    "meaning": "mái nhà",
+    "word": "roof"
+  },
+  {
+    "meaning": "ngói / gạch lát",
+    "word": "tile"
+  },
+  {
+    "meaning": "ống khói",
+    "word": "chimney"
+  },
+  {
+    "meaning": "ăng-ten",
+    "word": "antenna"
+  },
+  {
+    "meaning": "cái thang",
+    "word": "ladder"
+  },
+  {
+    "meaning": "tấm năng lượng mặt trời",
+    "word": "solar panel"
+  },
+  {
+    "meaning": "bãi cỏ",
+    "word": "lawn"
+  },
+  {
+    "meaning": "cây",
+    "word": "tree"
+  },
+  {
+    "meaning": "bụi cây",
+    "word": "bush"
+  },
+  {
+    "meaning": "bồn hoa",
+    "word": "flower bed"
+  },
+  {
+    "meaning": "hàng rào",
+    "word": "fence"
+  },
+  {
+    "meaning": "cổng",
+    "word": "gate"
+  },
+  {
+    "meaning": "ghế dài",
+    "word": "bench"
+  },
+  {
+    "meaning": "đài phun nước",
+    "word": "fountain"
+  },
+  {
+    "meaning": "gác xép / gác mái",
+    "word": "attic"
+  },
+  {
+    "meaning": "vali",
+    "word": "suitcase"
+  },
+  {
+    "meaning": "hành lang",
+    "word": "hallway"
+  },
+  {
+    "meaning": "hành lang",
+    "word": "corridor"
+  },
+  {
+    "meaning": "lan can",
+    "word": "railing"
+  },
+  {
+    "meaning": "cầu thang",
+    "word": "stairs"
+  },
+  {
+    "meaning": "tay vịn cầu thang",
+    "word": "handrail"
+  },
+  {
+    "meaning": "thang máy",
+    "word": "elevator / lift"
+  },
+  {
+    "meaning": "thang cuốn",
+    "word": "escalator"
+  },
+  {
+    "meaning": "màn hình",
+    "word": "monitor"
+  },
+  {
+    "meaning": "bàn phím",
+    "word": "keyboard"
+  },
+  {
+    "meaning": "chuột máy tính",
+    "word": "mouse"
+  },
+  {
+    "meaning": "máy in",
+    "word": "printer"
+  },
+  {
+    "meaning": "máy photocopy",
+    "word": "photocopier"
+  },
+  {
+    "meaning": "tủ hồ sơ",
+    "word": "filing cabinet"
+  },
+  {
+    "meaning": "Ghim bấm",
+    "word": "stapler"
+  },
+  {
+    "meaning": "lịch",
+    "word": "calendar"
+  },
+  {
+    "meaning": "tai nghe",
+    "word": "headset"
+  },
+  {
+    "meaning": "quầy lễ tân",
+    "word": "reception desk"
+  },
+  {
+    "meaning": "sảnh",
+    "word": "lobby"
+  },
+  {
+    "meaning": "máy chiếu",
+    "word": "projector"
+  },
+  {
+    "meaning": "bảng trắng",
+    "word": "whiteboard"
+  },
+  {
+    "meaning": "thẻ đeo / thẻ nhân viên",
+    "word": "badge"
+  },
+  {
+    "meaning": "camera an ninh",
+    "word": "security camera"
+  },
+  {
+    "meaning": "bãi đỗ xe",
+    "word": "parking lot"
+  },
+  {
+    "meaning": "thanh chắn / rào chắn",
+    "word": "barrier"
+  },
+  {
+    "meaning": "sân chơi",
+    "word": "playground"
+  },
+  {
+    "meaning": "cầu trượt",
+    "word": "slide"
+  },
+  {
+    "meaning": "thùng rác",
+    "word": "trash can"
+  },
+  {
+    "meaning": "xích đu",
+    "word": "swing"
+  },
+  {
+    "meaning": "biển báo",
+    "word": "sign"
+  },
+  {
+    "meaning": "cột đèn",
+    "word": "lamp post"
+  },
+  {
+    "meaning": "vỉa hè",
+    "word": "sidewalk"
+  },
+  {
+    "meaning": "đèn giao thông",
+    "word": "traffic light"
+  },
+  {
+    "meaning": "vạch sang đường",
+    "word": "crosswalk"
+  },
+  {
+    "meaning": "trạm xe buýt",
+    "word": "bus stop"
+  },
+  {
+    "meaning": "người đi bộ",
+    "word": "pedestrian"
+  },
+  {
+    "meaning": "tàu điện ngầm",
+    "word": "subway"
+  },
+  {
+    "meaning": "vỉa hè",
+    "word": "pavement"
+  },
+  {
+    "meaning": "ngã tư / giao lộ",
+    "word": "intersection"
+  },
+  {
+    "meaning": "công trường xây dựng",
+    "word": "construction site"
+  },
+  {
+    "meaning": "Môi trường làm việc",
+    "word": "Work environment"
+  },
+  {
+    "meaning": "Làm việc từ xa",
+    "word": "Remote work"
+  },
+  {
+    "meaning": "Lịch trình",
+    "word": "Schedule"
+  },
+  {
+    "meaning": "Đồng nghiệp",
+    "word": "Colleague"
+  },
+  {
+    "meaning": "Đồng nghiệp",
+    "word": "Co-worker"
+  },
+  {
+    "meaning": "Nhân viên",
+    "word": "Staff"
+  },
+  {
+    "meaning": "Nhân viên",
+    "word": "Employee"
+  },
+  {
+    "meaning": "Chủ",
+    "word": "Employer"
+  },
+  {
+    "meaning": "Giờ nghỉ trưa",
+    "word": "Lunch break"
+  },
+  {
+    "meaning": "Giờ làm việc",
+    "word": "Office hours"
+  },
+  {
+    "meaning": "Cái bấm ghim",
+    "word": "Stapler"
+  },
+  {
+    "meaning": "Tủ đựng hồ sơ",
+    "word": "Cabinet"
+  },
+  {
+    "meaning": "Lễ tân",
+    "word": "Receptionist"
+  },
+  {
+    "meaning": "Nghỉ hưu",
+    "word": "Retire"
+  },
+  {
+    "meaning": "Từ chức",
+    "word": "Resign"
+  },
+  {
+    "meaning": "Máy bán hàng tự động",
+    "word": "Vending machine"
+  },
+  {
+    "meaning": "Bút lông",
+    "word": "Marker"
+  },
+  {
+    "meaning": "Nghỉ ốm",
+    "word": "Sick leave"
+  },
+  {
+    "meaning": "Cái kẹp giấy",
+    "word": "Paperclip"
+  },
+  {
+    "meaning": "Màn hình – giám sát",
+    "word": "Monitor"
+  },
+  {
+    "meaning": "Sự thăng chức",
+    "word": "Promotion"
+  },
+  {
+    "meaning": "Tuyển dụng",
+    "word": "Recruit"
+  },
+  {
+    "meaning": "Vị trí trống",
+    "word": "Vacancy"
+  },
+  {
+    "meaning": "Khối lượng công việc",
+    "word": "Workload"
+  },
+  {
+    "meaning": "Hiệu suất làm việc",
+    "word": "Work performance"
+  },
+  {
+    "meaning": "Năng suất",
+    "word": "Productivity"
+  },
+  {
+    "meaning": "Phòng hội nghị",
+    "word": "Conference room"
+  },
+  {
+    "meaning": "Phòng nhân sự",
+    "word": "Human resources"
+  },
+  {
+    "meaning": "Việc cần bàn trong cuộc họp",
+    "word": "Agenda"
+  },
+  {
+    "meaning": "Chính sách",
+    "word": "Policy"
+  },
+  {
+    "meaning": "Bảng lương",
+    "word": "Payroll"
+  },
+  {
+    "meaning": "Đồ dùng văn phòng",
+    "word": "Office supplies"
+  },
+  {
+    "meaning": "Bảo trì",
+    "word": "Maintenance"
+  },
+  {
+    "meaning": "lợi nhuận",
+    "word": "Profit"
+  },
+  {
+    "meaning": "doanh thu",
+    "word": "Revenue"
+  },
+  {
+    "meaning": "chi phí",
+    "word": "Expense"
+  },
+  {
+    "meaning": "ngân sách",
+    "word": "Budget"
+  },
+  {
+    "meaning": "hợp đồng",
+    "word": "Contract"
+  },
+  {
+    "meaning": "hóa đơn",
+    "word": "Invoice"
+  },
+  {
+    "meaning": "việc mua hàng / mua sắm",
+    "word": "Purchase"
+  },
+  {
+    "meaning": "nhà cung cấp",
+    "word": "Supplier"
+  },
+  {
+    "meaning": "khách hàng (thường dùng cho dịch vụ chuyên nghiệp)",
+    "word": "Client"
+  },
+  {
+    "meaning": "cuộc đàm phán",
+    "word": "Negotiation"
+  },
+  {
+    "meaning": "bản đề xuất",
+    "word": "Proposal"
+  },
+  {
+    "meaning": "sự phê duyệt",
+    "word": "Approval"
+  },
+  {
+    "meaning": "chiến lược",
+    "word": "Strategy"
+  },
+  {
+    "meaning": "thị phần",
+    "word": "Market share"
+  },
+  {
+    "meaning": "phòng ban",
+    "word": "Department"
+  },
+  {
+    "meaning": "Cuộc sáp nhập",
+    "word": "Merger"
+  },
+  {
+    "meaning": "sự mua lại (doanh nghiệp)",
+    "word": "Acquisition"
+  },
+  {
+    "meaning": "sự đầu tư",
+    "word": "Investment"
+  },
+  {
+    "meaning": "cổ đông",
+    "word": "Shareholder"
+  },
+  {
+    "meaning": "hàng quý (3 tháng 1 lần)",
+    "word": "Quarterly"
+  },
+  {
+    "meaning": "dự báo",
+    "word": "Forecast"
+  },
+  {
+    "meaning": "sự ra mắt (sản phẩm, dịch vụ)",
+    "word": "Launch"
+  },
+  {
+    "meaning": "bán lẻ",
+    "word": "Retail"
+  },
+  {
+    "meaning": "bán sỉ",
+    "word": "Wholesale"
+  },
+  {
+    "meaning": "trụ sở chính",
+    "word": "Headquarters"
+  },
+  {
+    "meaning": "quy định",
+    "word": "Regulation"
+  },
+  {
+    "meaning": "chi nhánh",
+    "word": "Branch"
+  },
+  {
+    "meaning": "nguồn tài trợ / tiền vốn",
+    "word": "Funding"
+  },
+  {
+    "meaning": "tài sản",
+    "word": "Asset"
+  },
+  {
+    "meaning": "kiểm toán",
+    "word": "Audit"
+  },
+  {
+    "meaning": "cắt giảm nhân sự / thu hẹp quy mô",
+    "word": "Downsize"
+  },
+  {
+    "meaning": "doanh nhân",
+    "word": "Entrepreneur"
+  },
+  {
+    "meaning": "tập đoàn",
+    "word": "Corporation"
+  },
+  {
+    "meaning": "chủ tài khoản",
+    "word": "Account holder"
+  },
+  {
+    "meaning": "số dư tài khoản",
+    "word": "Balance"
+  },
+  {
+    "meaning": "khoản tiền gửi",
+    "word": "Deposit"
+  },
+  {
+    "meaning": "sự rút tiền",
+    "word": "Withdrawal"
+  },
+  {
+    "meaning": "giao dịch",
+    "word": "Transaction"
+  },
+  {
+    "meaning": "bảng sao kê",
+    "word": "Statement"
+  },
+  {
+    "meaning": "chuyển khoản",
+    "word": "Transfer"
+  },
+  {
+    "meaning": "Mở tài khoản ngân hàng",
+    "word": "Open a bank account"
+  },
+  {
+    "meaning": "thẻ tín dụng",
+    "word": "Credit card"
+  },
+  {
+    "meaning": "thẻ ghi nợ",
+    "word": "Debit card"
+  },
+  {
+    "meaning": "mã PIN",
+    "word": "PIN (Personal Identification Number)"
+  },
+  {
+    "meaning": "lại suất",
+    "word": "Interest rate"
+  },
+  {
+    "meaning": "khoản vay",
+    "word": "Loan"
+  },
+  {
+    "meaning": "khoản vay thế chấp (thường để mua nhà)",
+    "word": "Mortgage"
+  },
+  {
+    "meaning": "danh mục đầu tư",
+    "word": "Portfolio"
+  },
+  {
+    "meaning": "trái phiếu",
+    "word": "Bond"
+  },
+  {
+    "meaning": "vốn",
+    "word": "Capital"
+  },
+  {
+    "meaning": "sự xác minh",
+    "word": "Verification"
+  },
+  {
+    "meaning": "tiền mặt",
+    "word": "Cash"
+  },
+  {
+    "meaning": "nhận",
+    "word": "Receive"
+  },
+  {
+    "meaning": "biên lai – hóa đơn",
+    "word": "Receipt"
+  },
+  {
+    "meaning": "nhân viên giao dịch (ở ngân hàng/quầy)",
+    "word": "Clerk"
+  },
+  {
+    "meaning": "cảnh báo",
+    "word": "Alert"
+  },
+  {
+    "meaning": "đổi tiền / trao đổi",
+    "word": "Exchange"
+  },
+  {
+    "meaning": "yêu cầu",
+    "word": "request"
+  },
+  {
+    "meaning": "sự gián đoạn",
+    "word": "interruption"
+  },
+  {
+    "meaning": "ví điện tử",
+    "word": "Digital wallet"
+  },
+  {
+    "meaning": "phí",
+    "word": "Fee"
+  },
+  {
+    "meaning": "tính phí",
+    "word": "Charge"
+  },
+  {
+    "meaning": "sự hết hạn",
+    "word": "Expiration"
+  },
+  {
+    "meaning": "kích hoạt",
+    "word": "Activate"
+  },
+  {
+    "meaning": "hoàn tiền",
+    "word": "Refund"
+  },
+  {
+    "meaning": "tiền phạt",
+    "word": "Penalty"
+  },
+  {
+    "meaning": "Chương trình học",
+    "word": "Curriculum"
+  },
+  {
+    "meaning": "Học kỳ",
+    "word": "Semester"
+  },
+  {
+    "meaning": "Học phí",
+    "word": "Tuition"
+  },
+  {
+    "meaning": "Học bổng",
+    "word": "Scholarship"
+  },
+  {
+    "meaning": "Tiền trợ cấp (học tập)",
+    "word": "Grant"
+  },
+  {
+    "meaning": "Ghi danh, đăng ký học",
+    "word": "Enrollment"
+  },
+  {
+    "meaning": "Bài tập – nhiệm vụ được giao",
+    "word": "Assignment"
+  },
+  {
+    "meaning": "Bài giảng",
+    "word": "Lecture"
+  },
+  {
+    "meaning": "Giảng viên",
+    "word": "Lecturer"
+  },
+  {
+    "meaning": "Giáo sư",
+    "word": "Professor"
+  },
+  {
+    "meaning": "Khuôn viên trường",
+    "word": "Campus"
+  },
+  {
+    "meaning": "Bằng tốt nghiệp",
+    "word": "Diploma"
+  },
+  {
+    "meaning": "Bằng cấp",
+    "word": "Degree"
+  },
+  {
+    "meaning": "Thực tập sinh",
+    "word": "Intern"
+  },
+  {
+    "meaning": "Kỳ thực tập",
+    "word": "Internship"
+  },
+  {
+    "meaning": "Tốt nghiệp",
+    "word": "Graduate"
+  },
+  {
+    "meaning": "Học thuật",
+    "word": "Academic"
+  },
+  {
+    "meaning": "Giấy chứng nhận",
+    "word": "Certificate"
+  },
+  {
+    "meaning": "Hội thảo",
+    "word": "Workshop"
+  },
+  {
+    "meaning": "Sự có mặt",
+    "word": "Attendance"
+  },
+  {
+    "meaning": "Trình độ chuyên môn",
+    "word": "Qualification"
+  },
+  {
+    "meaning": "Bài thuyết trình",
+    "word": "Presentation"
+  },
+  {
+    "meaning": "Khám sức khỏe tổng quát",
+    "word": "Check-up"
+  },
+  {
+    "meaning": "Cuộc hẹn khám",
+    "word": "Appointment"
+  },
+  {
+    "meaning": "Đơn thuốc",
+    "word": "Prescription"
+  },
+  {
+    "meaning": "Thuốc",
+    "word": "Medication"
+  },
+  {
+    "meaning": "Bác sĩ",
+    "word": "Physician"
+  },
+  {
+    "meaning": "Bác sĩ phẫu thuật",
+    "word": "Surgeon"
+  },
+  {
+    "meaning": "Sự điều trị",
+    "word": "Treatment"
+  },
+  {
+    "meaning": "Chẩn đoán",
+    "word": "Diagnosis"
+  },
+  {
+    "meaning": "Triệu chứng",
+    "word": "Symptom"
+  },
+  {
+    "meaning": "Mũi tiêm",
+    "word": "Injection"
+  },
+  {
+    "meaning": "Nhiễm trùng",
+    "word": "Infection"
+  },
+  {
+    "meaning": "Căn bệnh",
+    "word": "Disease"
+  },
+  {
+    "meaning": "Ca phẫu thuật",
+    "word": "Operation"
+  },
+  {
+    "meaning": "Trường hợp khẩn cấp",
+    "word": "Emergency"
+  },
+  {
+    "meaning": "Phòng khám",
+    "word": "Clinic"
+  },
+  {
+    "meaning": "Y tá",
+    "word": "Nurse"
+  },
+  {
+    "meaning": "Bệnh nhân",
+    "word": "Patient"
+  },
+  {
+    "meaning": "Dinh dưỡng",
+    "word": "Nutrition"
+  },
+  {
+    "meaning": "Máy quét",
+    "word": "Scanner"
+  },
+  {
+    "meaning": "Tai nghe",
+    "word": "Headphones"
+  },
+  {
+    "meaning": "Ổ cứng",
+    "word": "Hard drive"
+  },
+  {
+    "meaning": "Bộ sạc",
+    "word": "Charger"
+  },
+  {
+    "meaning": "Dây cáp",
+    "word": "Cable"
+  },
+  {
+    "meaning": "Trình duyệt",
+    "word": "Browser"
+  },
+  {
+    "meaning": "Ứng dụng",
+    "word": "Application"
+  },
+  {
+    "meaning": "Nền tảng",
+    "word": "Platform"
+  },
+  {
+    "meaning": "Cơ sở dữ liệu",
+    "word": "Database"
+  },
+  {
+    "meaning": "Mạng lưới",
+    "word": "Network"
+  },
+  {
+    "meaning": "Truy cập",
+    "word": "Access"
+  },
+  {
+    "meaning": "Sao lưu",
+    "word": "Backup"
+  },
+  {
+    "meaning": "Lỗi",
+    "word": "Bug"
+  },
+  {
+    "meaning": "Trục trặc - lỗi nhỏ",
+    "word": "Glitch"
+  },
+  {
+    "meaning": "Khắc phục sự cố",
+    "word": "Troubleshoot"
+  },
+  {
+    "meaning": "Thông báo lỗi",
+    "word": "Error message"
+  },
+  {
+    "meaning": "Cài đặt",
+    "word": "Installation"
+  },
+  {
+    "meaning": "Kỹ sư phần mềm",
+    "word": "Software engineer"
+  },
+  {
+    "meaning": "Lập trình viên",
+    "word": "Developer"
+  },
+  {
+    "meaning": "Thuật toán",
+    "word": "Algorithm"
+  },
+  {
+    "meaning": "Gỡ lỗi",
+    "word": "Debug"
+  },
+  {
+    "meaning": "Phiên bản",
+    "word": "Version"
+  },
+  {
+    "meaning": "phát hành",
+    "word": "Release"
+  },
+  {
+    "meaning": "Giao diện",
+    "word": "Interface"
+  },
+  {
+    "meaning": "Trải nghiệm người dùng",
+    "word": "UX (User Experience)"
+  },
+  {
+    "meaning": "Giao diện người dùng",
+    "word": "UI (User Interface)"
+  },
+  {
+    "meaning": "Trí tuệ nhân tạo",
+    "word": "Artificial intelligence (AI)"
+  },
+  {
+    "meaning": "Tự động",
+    "word": "Automation"
+  },
+  {
+    "meaning": "Thực tế ảo",
+    "word": "Virtual reality (VR)"
+  },
+  {
+    "meaning": "Tiền mã hóa",
+    "word": "Cryptocurrency"
+  },
+  {
+    "meaning": "An ninh mạng",
+    "word": "Cybersecurity"
+  },
+  {
+    "meaning": "Tấn công mạng",
+    "word": "Cyberattack"
+  },
+  {
+    "meaning": "Cần cẩu",
+    "word": "Crane"
+  },
+  {
+    "meaning": "Máy xúc",
+    "word": "Excavator"
+  },
+  {
+    "meaning": "Xe ủi đất",
+    "word": "Bulldozer"
+  },
+  {
+    "meaning": "Xi măng",
+    "word": "Cement"
+  },
+  {
+    "meaning": "Giàn giáo",
+    "word": "Scaffolding"
+  },
+  {
+    "meaning": "Bê tông",
+    "word": "Concrete"
+  },
+  {
+    "meaning": "Sỏi",
+    "word": "Gravel"
+  },
+  {
+    "meaning": "Thép",
+    "word": "Steel"
+  },
+  {
+    "meaning": "Gạch",
+    "word": "Brick"
+  },
+  {
+    "meaning": "Gỗ",
+    "word": "Wood"
+  },
+  {
+    "meaning": "Gạch lát",
+    "word": "Tile"
+  },
+  {
+    "meaning": "Công nhân xây dựng",
+    "word": "Construction worker"
+  },
+  {
+    "meaning": "Quản lý công trường",
+    "word": "Site manager"
+  },
+  {
+    "meaning": "Kiến trúc sư",
+    "word": "Architect"
+  },
+  {
+    "meaning": "Thợ điện",
+    "word": "Electrician"
+  },
+  {
+    "meaning": "Thợ ống nước",
+    "word": "Plumber"
+  },
+  {
+    "meaning": "Thợ mộc",
+    "word": "Carpenter"
+  },
+  {
+    "meaning": "Bản thiết kế",
+    "word": "Blueprint"
+  },
+  {
+    "meaning": "Bố trí",
+    "word": "Layout"
+  },
+  {
+    "meaning": "Kích thước",
+    "word": "Dimension"
+  },
+  {
+    "meaning": "Thông số kỹ thuật",
+    "word": "Specification"
+  },
+  {
+    "meaning": "Bản nháp",
+    "word": "Draft"
+  },
+  {
+    "meaning": "Giấy phép",
+    "word": "Permit"
+  },
+  {
+    "meaning": "Búa",
+    "word": "Hammer"
+  },
+  {
+    "meaning": "Cưa",
+    "word": "Saw"
+  },
+  {
+    "meaning": "Máy khoan",
+    "word": "Drill"
+  },
+  {
+    "meaning": "Tua vít",
+    "word": "Screwdriver"
+  },
+  {
+    "meaning": "Mỏ lết",
+    "word": "Wrench"
+  },
+  {
+    "meaning": "Cái kìm",
+    "word": "Pliers"
+  },
+  {
+    "meaning": "Đào",
+    "word": "Dig"
+  },
+  {
+    "meaning": "Đổ",
+    "word": "Pour"
+  },
+  {
+    "meaning": "Lắp ráp",
+    "word": "Assemble"
+  },
+  {
+    "meaning": "Phá dỡ",
+    "word": "Demolish"
+  },
+  {
+    "meaning": "Dựng lên",
+    "word": "Erect"
+  },
+  {
+    "meaning": "Đo đạc",
+    "word": "Measure"
+  },
+  {
+    "meaning": "Kiểm tra",
+    "word": "Inspect"
+  },
+  {
+    "meaning": "Nền móng",
+    "word": "Foundation"
+  },
+  {
+    "meaning": "Trần nhà",
+    "word": "Ceiling"
+  },
+  {
+    "meaning": "Sàn nhà",
+    "word": "Floor"
+  },
+  {
+    "meaning": "Cầu thang",
+    "word": "Staircase"
+  },
+  {
+    "meaning": "Đặt vé máy bay",
+    "word": "Book a flight"
+  },
+  {
+    "meaning": "Vé khứ hồi",
+    "word": "Round-trip ticket"
+  },
+  {
+    "meaning": "Vé một chiều",
+    "word": "One-way ticket"
+  },
+  {
+    "meaning": "Cổng lên máy bay",
+    "word": "Gate"
+  },
+  {
+    "meaning": "Sự khởi hành - sự rời đi",
+    "word": "Departure"
+  },
+  {
+    "meaning": "Sự đến nơi",
+    "word": "Arrival"
+  },
+  {
+    "meaning": "Hành lý",
+    "word": "Baggage / Luggage"
+  },
+  {
+    "meaning": "Hành lý xách tay",
+    "word": "Carry-on bag"
+  },
+  {
+    "meaning": "Lịch trình",
+    "word": "Itinerary"
+  },
+  {
+    "meaning": "Sự đặt chỗ",
+    "word": "Reservation"
+  },
+  {
+    "meaning": "Quầy lễ tân",
+    "word": "Reception desk"
+  },
+  {
+    "meaning": "Bữa sáng miễn phí",
+    "word": "Complimentary breakfast"
+  },
+  {
+    "meaning": "Phiếu giảm giá",
+    "word": "Coupon"
+  },
+  {
+    "meaning": "Nhãn giá",
+    "word": "Price tag"
+  },
+  {
+    "meaning": "Hoàn tiền",
+    "word": "Refund"
+  },
+  {
+    "meaning": "Chính sách đổi trả",
+    "word": "Return policy"
+  },
+  {
+    "meaning": "Trung tâm mua sắm",
+    "word": "Shopping mall"
+  },
+  {
+    "meaning": "Thử đồ (quần áo, giày)",
+    "word": "Try on"
+  },
+  {
+    "meaning": "Món hàng",
+    "word": "Item"
+  },
+  {
+    "meaning": "Lối đi giữa các kệ",
+    "word": "Aisle"
+  },
+  {
+    "meaning": "Hết hàng",
+    "word": "Out of stock"
+  },
+  {
+    "meaning": "Còn hàng",
+    "word": "In stock"
+  },
+  {
+    "meaning": "Chi phí du lịch",
+    "word": "Travel expense"
+  },
+  {
+    "meaning": "Chuyến công tác",
+    "word": "Business trip"
+  },
+  {
+    "meaning": "Kiểm tra an ninh",
+    "word": "Security check"
+  },
+  {
+    "meaning": "Phi công",
+    "word": "Pilot"
+  },
+  {
+    "meaning": "Tiếp viên hàng không",
+    "word": "Flight attendant"
+  },
+  {
+    "meaning": "Nơi nhận lại đồ thất lạc",
+    "word": "Lost and found"
+  },
+  {
+    "meaning": "Hết phòng / hết chỗ",
+    "word": "No vacancy"
+  },
+  {
+    "meaning": "Trọn gói",
+    "word": "All-inclusive"
+  },
+  {
+    "meaning": "Điểm tham quan",
+    "word": "Attraction / Tourist spot"
+  },
+  {
+    "meaning": "Đợt xả hàng",
+    "word": "Clearance sale"
+  },
+  {
+    "meaning": "Mua 1 tặng 1",
+    "word": "Buy one get one free (BOGO)"
+  },
+  {
+    "meaning": "Thẻ thành viên",
+    "word": "Membership card"
+  },
+  {
+    "meaning": "Thuếu",
+    "word": "Tax"
+  },
+  {
+    "meaning": "Hàng bị hỏng",
+    "word": "Damaged item"
+  },
+  {
+    "meaning": "Đi ngắm hàng chứ không mua",
+    "word": "Window shopping"
+  },
+  {
+    "meaning": "Giá bán lẻ",
+    "word": "Retail price"
+  },
+  {
+    "meaning": "Xe tải",
+    "word": "Truck"
+  },
+  {
+    "meaning": "Xe tải nhỏ",
+    "word": "Van"
+  },
+  {
+    "meaning": "Tàu điện ngầm",
+    "word": "Subway"
+  },
+  {
+    "meaning": "Tàu điện",
+    "word": "Tram"
+  },
+  {
+    "meaning": "Máy bay",
+    "word": "Airplane"
+  },
+  {
+    "meaning": "Phà",
+    "word": "Ferry"
+  },
+  {
+    "meaning": "Thuyền",
+    "word": "Boat"
+  },
+  {
+    "meaning": "Tàu thủy",
+    "word": "Ship"
+  },
+  {
+    "meaning": "Xe tay ga",
+    "word": "Scooter"
+  },
+  {
+    "meaning": "Đường cao tốc",
+    "word": "Highway / Freeway"
+  },
+  {
+    "meaning": "Ngã tư",
+    "word": "Intersection"
+  },
+  {
+    "meaning": "Bùng binh",
+    "word": "Roundabout"
+  },
+  {
+    "meaning": "Vạch qua đường",
+    "word": "Crosswalk"
+  },
+  {
+    "meaning": "Vỉa hè",
+    "word": "Sidewalk"
+  },
+  {
+    "meaning": "Làn đường",
+    "word": "Lane"
+  },
+  {
+    "meaning": "Đèn giao thông",
+    "word": "Traffic light"
+  },
+  {
+    "meaning": "Trạm thu phí",
+    "word": "Toll booth"
+  },
+  {
+    "meaning": "Nhà ga xe lửa",
+    "word": "Railway station"
+  },
+  {
+    "meaning": "Đi làm",
+    "word": "Commute"
+  },
+  {
+    "meaning": "Tuyến đường",
+    "word": "Route"
+  },
+  {
+    "meaning": "Điểm đến",
+    "word": "Destination"
+  },
+  {
+    "meaning": "Giờ cao điểm",
+    "word": "Rush hour"
+  },
+  {
+    "meaning": "Kẹt xe",
+    "word": "Traffic jam"
+  },
+  {
+    "meaning": "Giới hạn tốc độ",
+    "word": "Speed limit"
+  },
+  {
+    "meaning": "Biển báo giao thông",
+    "word": "Road sign"
+  },
+  {
+    "meaning": "Người đi bộ",
+    "word": "Pedestrian"
+  },
+  {
+    "meaning": "Bằng lái xe",
+    "word": "driver's license"
+  },
+  {
+    "meaning": "Dây an toàn",
+    "word": "Seatbelt"
+  },
+  {
+    "meaning": "Tai nạn",
+    "word": "Accident"
+  },
+  {
+    "meaning": "Tiền phạt",
+    "word": "Fine"
+  },
+  {
+    "meaning": "Chỗ đậu xe",
+    "word": "Parking lot"
+  },
+  {
+    "meaning": "Bồi bàn nam",
+    "word": "Waiter"
+  },
+  {
+    "meaning": "Bồi bàn nữ",
+    "word": "Waitress"
+  },
+  {
+    "meaning": "Bếp trưởng",
+    "word": "Chef"
+  },
+  {
+    "meaning": "Người nấu ăn",
+    "word": "Cook"
+  },
+  {
+    "meaning": "Người ăn ở nhà hàng",
+    "word": "Diner"
+  },
+  {
+    "meaning": "Món đặc biệt trong ngày",
+    "word": "Special of the day"
+  },
+  {
+    "meaning": "Món mua mang về",
+    "word": "Takeout / Takeaway"
+  },
+  {
+    "meaning": "Món khai vị",
+    "word": "Appetizer"
+  },
+  {
+    "meaning": "Món khai vị",
+    "word": "Starter"
+  },
+  {
+    "meaning": "Món chính",
+    "word": "Main course"
+  },
+  {
+    "meaning": "Món chính",
+    "word": "Entrée"
+  },
+  {
+    "meaning": "Món tráng miệng",
+    "word": "Dessert"
+  },
+  {
+    "meaning": "Đồ uống",
+    "word": "Beverage"
+  },
+  {
+    "meaning": "Nước ngọt",
+    "word": "Soft drink"
+  },
+  {
+    "meaning": "Đồ uống có cồn",
+    "word": "Alcoholic drink"
+  },
+  {
+    "meaning": "Món ăn kèm",
+    "word": "Side dish"
+  },
+  {
+    "meaning": "Nguyên liệu",
+    "word": "Ingredients"
+  },
+  {
+    "meaning": "Nướng",
+    "word": "Grilled"
+  },
+  {
+    "meaning": "Chiên",
+    "word": "Fried"
+  },
+  {
+    "meaning": "Luộc",
+    "word": "Boiled"
+  },
+  {
+    "meaning": "Tiền ai nấy trả - chia hóa đơn nhóee",
+    "word": "Split the bill"
+  },
+  {
+    "meaning": "Tính tiền quá cao",
+    "word": "Overcharge"
+  },
+  {
+    "meaning": "Lời phàn nàn",
+    "word": "Complaint"
+  },
+  {
+    "meaning": "Phòng đơn",
+    "word": "Single room"
+  },
+  {
+    "meaning": "Phòng đôi",
+    "word": "Double room"
+  },
+  {
+    "meaning": "Phòng 2 giường đơn",
+    "word": "Twin room"
+  },
+  {
+    "meaning": "Phòng hạng sang",
+    "word": "Suite"
+  },
+  {
+    "meaning": "Phòng tiêu chuẩn",
+    "word": "Standard room"
+  },
+  {
+    "meaning": "Những phòng liền kề",
+    "word": "Adjoining rooms"
+  },
+  {
+    "meaning": "Nhân viên hỗ trợ khách trong khách sạn",
+    "word": "Concierge"
+  },
+  {
+    "meaning": "Dọn phòng",
+    "word": "Housekeeping"
+  },
+  {
+    "meaning": "Dịch vụ giặt là",
+    "word": "Laundry service"
+  },
+  {
+    "meaning": "Tiên nghi",
+    "word": "Amenities"
+  },
+  {
+    "meaning": "Đã đặt hết chỗ",
+    "word": "Fully booked"
+  },
+  {
+    "meaning": "Máy lạnh",
+    "word": "Air conditioner"
   }
 ]

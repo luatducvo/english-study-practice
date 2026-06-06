@@ -36,6 +36,9 @@
             <div id="word-list" class="word-list"></div>
             
             <div class="action-buttons">
+                <button id="back-btn" class="btn btn-secondary" disabled>
+                    <ion-icon name="arrow-back-outline"></ion-icon> Back
+                </button>
                 <button id="skip-btn" class="btn btn-secondary">
                     <ion-icon name="play-skip-forward-outline"></ion-icon> Skip Remaining
                 </button>
@@ -64,7 +67,12 @@
                     </tbody>
                 </table>
             </div>
-            <button id="restart-btn" class="btn btn-primary">Practice Again</button>
+            <div class="completion-actions">
+                <button id="completion-back-btn" class="btn btn-secondary">
+                    <ion-icon name="arrow-back-outline"></ion-icon> Back
+                </button>
+                <button id="restart-btn" class="btn btn-primary">Practice Again</button>
+            </div>
         </section>
     </div>
 

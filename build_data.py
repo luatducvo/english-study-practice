@@ -1,7 +1,7 @@
 import json
 
 def build_data():
-    with open('vocab_with_meaning.json', 'r', encoding='utf-8') as f:
+    with open('mean.json', 'r', encoding='utf-8') as f:
         data = f.read()
         
     js_content = f"window.vocabData = {data};"

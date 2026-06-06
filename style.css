@@ -398,6 +398,15 @@ h1 {
     background: rgba(0, 0, 0, 0.02);
 }
 
+.completion-actions {
+    display: flex;
+    gap: 15px;
+}
+
+.completion-actions .btn-primary {
+    flex: 1;
+}
+
 @keyframes fadeIn {
     from { opacity: 0; transform: translateY(20px); }
     to { opacity: 1; transform: translateY(0); }
@@ -413,6 +422,9 @@ h1 {
         width: 100%;
     }
     .action-buttons {
+        flex-direction: column;
+    }
+    .completion-actions {
         flex-direction: column;
     }
 }

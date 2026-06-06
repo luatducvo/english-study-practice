@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let vocabData = [];
     const CHUNK_SIZE = 10;
     let currentIndex = 0;
+    let completedChunks = new Set();
 
     function getCustomVocab() {
         const stored = localStorage.getItem('customVocab');
@@ -32,11 +33,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const wordListEl = document.getElementById('word-list');
     const progressBar = document.getElementById('progress-bar');
     const progressText = document.getElementById('progress-text');
+    const backBtn = document.getElementById('back-btn');
     const nextBtn = document.getElementById('next-btn');
     const skipBtn = document.getElementById('skip-btn');
     const mainContent = document.getElementById('main-content');
     const completionScreen = document.getElementById('completion-screen');
     const vocabTableBody = document.getElementById('vocab-table-body');
+    const completionBackBtn = document.getElementById('completion-back-btn');
     const restartBtn = document.getElementById('restart-btn');
     
     // Dashboard UI Elements
@@ -60,6 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const percent = (wordsDone / vocabData.length) * 100;
         progressBar.style.width = `${percent}%`;
         progressText.innerText = `${wordsDone} / ${vocabData.length} Words Completed`;
+        backBtn.disabled = currentIndex === 0;
     }
     
     function renderChunk() {
@@ -72,6 +76,8 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
         
+        const isReviewChunk = completedChunks.has(currentIndex);
+
         chunk.forEach((item, index) => {
             const div = document.createElement('div');
             div.className = 'word-item';
@@ -89,6 +95,13 @@ document.addEventListener('DOMContentLoaded', () => {
             
             const input = div.querySelector(`#input-${index}`);
             const hintBtn = div.querySelector(`#hint-${index}`);
+
+            if (isReviewChunk) {
+                div.classList.add('correct');
+                input.value = item.meaning;
+                input.disabled = true;
+                hintBtn.disabled = true;
+            }
             
             let isHintVisible = false;
             hintBtn.addEventListener('click', () => {
@@ -157,6 +170,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             });
         });
+
+        if (isReviewChunk) {
+            nextBtn.disabled = false;
+        }
         
         updateProgress();
         // Focus first input
@@ -229,8 +246,29 @@ document.addEventListener('DOMContentLoaded', () => {
     
     // Event Listeners
     nextBtn.addEventListener('click', () => {
+        completedChunks.add(currentIndex);
         currentIndex += CHUNK_SIZE;
         renderChunk();
+    });
+
+    function goBackChunk() {
+        if (currentIndex >= vocabData.length) {
+            const lastChunkStart = Math.max(0, Math.floor((vocabData.length - 1) / CHUNK_SIZE) * CHUNK_SIZE);
+            currentIndex = lastChunkStart;
+        } else {
+            currentIndex = Math.max(0, currentIndex - CHUNK_SIZE);
+        }
+        completionScreen.classList.add('hidden');
+        mainContent.classList.remove('hidden');
+        renderChunk();
+    }
+
+    backBtn.addEventListener('click', () => {
+        goBackChunk();
+    });
+
+    completionBackBtn.addEventListener('click', () => {
+        goBackChunk();
     });
     
     skipBtn.addEventListener('click', () => {
@@ -249,6 +287,7 @@ document.addEventListener('DOMContentLoaded', () => {
     
     restartBtn.addEventListener('click', () => {
         currentIndex = 0;
+        completedChunks = new Set();
         initData();
         completionScreen.classList.add('hidden');
         mainContent.classList.remove('hidden');
