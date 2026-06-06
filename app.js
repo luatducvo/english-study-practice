@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="word-text">${item.word}</div>
                 <div class="input-container">
                     <input type="text" class="word-input" id="input-${index}" placeholder="Type Vietnamese meaning..." autocomplete="off">
-                    <button class="hint-btn" id="hint-${index}" title="Show Hint" tabindex="-1"><ion-icon name="bulb-outline"></ion-icon></button>
+                    <button class="hint-btn" id="hint-${index}" title="Show Hint (Esc or Ctrl+Space)" tabindex="-1"><ion-icon name="bulb-outline"></ion-icon></button>
                     <ion-icon name="checkmark-circle" class="status-icon"></ion-icon>
                 </div>
             `;
@@ -157,7 +157,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             });
             
-            // Allow enter key to move to next input
+            // Allow enter key to move to next input, or Esc/Ctrl+Space to toggle hint
             input.addEventListener('keydown', (e) => {
                 if (e.key === 'Enter') {
                     e.preventDefault(); // Prevent default Enter behavior (like form submission)
@@ -167,6 +167,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     setTimeout(() => {
                         focusNextInput();
                     }, 50);
+                } else if (e.key === 'Escape' || (e.ctrlKey && e.key === ' ')) {
+                    e.preventDefault();
+                    hintBtn.click();
                 }
             });
         });
