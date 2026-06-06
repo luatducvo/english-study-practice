@@ -55,8 +55,38 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!str) return '';
         return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
     }
-    
 
+    function shuffleArray(array) {
+        const shuffled = [...array];
+        for (let i = shuffled.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+        }
+        return shuffled;
+    }
+
+    function buildAnswerOptions(currentItem) {
+        const correctMeaning = currentItem.meaning;
+        const correctKey = normalizeStr(correctMeaning);
+        const distractors = vocabData
+            .map(item => item.meaning)
+            .filter(meaning => normalizeStr(meaning) !== correctKey);
+        const uniqueDistractors = [...new Map(distractors.map(meaning => [normalizeStr(meaning), meaning])).values()];
+
+        return shuffleArray([
+            correctMeaning,
+            ...shuffleArray(uniqueDistractors).slice(0, 3)
+        ]);
+    }
+
+    function escapeHtml(str) {
+        return String(str)
+            .replace(/&/g, '&amp;')
+            .replace(/</g, '&lt;')
+            .replace(/>/g, '&gt;')
+            .replace(/"/g, '&quot;')
+            .replace(/'/g, '&#039;');
+    }
     
     function updateProgress() {
         const wordsDone = Math.min(currentIndex, vocabData.length);
@@ -82,101 +112,62 @@ document.addEventListener('DOMContentLoaded', () => {
             const div = document.createElement('div');
             div.className = 'word-item';
             div.id = `word-item-${index}`;
+            const answerOptions = buildAnswerOptions(item);
             
             div.innerHTML = `
                 <div class="word-text">${item.word}</div>
-                <div class="input-container">
-                    <input type="text" class="word-input" id="input-${index}" placeholder="Type Vietnamese meaning..." autocomplete="off">
-                    <button class="hint-btn" id="hint-${index}" title="Show Hint (Esc or Ctrl+Space)" tabindex="-1"><ion-icon name="bulb-outline"></ion-icon></button>
+                <div class="answer-container">
+                    <div class="question-text">Chon nghia dung</div>
+                    <div class="answer-options" id="options-${index}">
+                        ${answerOptions.map(option => `
+                            <button class="answer-option" type="button" data-answer="${escapeHtml(option)}">
+                                ${escapeHtml(option)}
+                            </button>
+                        `).join('')}
+                    </div>
                     <ion-icon name="checkmark-circle" class="status-icon"></ion-icon>
                 </div>
             `;
             wordListEl.appendChild(div);
             
-            const input = div.querySelector(`#input-${index}`);
-            const hintBtn = div.querySelector(`#hint-${index}`);
+            const optionButtons = div.querySelectorAll('.answer-option');
 
             if (isReviewChunk) {
                 div.classList.add('correct');
-                input.value = item.meaning;
-                input.disabled = true;
-                hintBtn.disabled = true;
+                optionButtons.forEach(button => {
+                    button.disabled = true;
+                    if (normalizeStr(button.dataset.answer) === normalizeStr(item.meaning)) {
+                        button.classList.add('selected', 'correct-answer');
+                    }
+                });
+            } else {
+                optionButtons.forEach(button => {
+                    button.addEventListener('click', () => {
+                        selectAnswer(button.dataset.answer, item.meaning, div, optionButtons);
+                        checkAllCompleted();
+                        setTimeout(focusNextQuestion, 50);
+                    });
+                });
             }
-            
-            let isHintVisible = false;
-            let originalValue = '';
-            hintBtn.addEventListener('click', () => {
-                isHintVisible = !isHintVisible;
-                if (isHintVisible) {
-                    originalValue = input.value; // Store what user has typed so far
-                    input.value = item.meaning;   // Set the input value to the hint/meaning
-                    hintBtn.classList.add('active');
-                } else {
-                    input.value = originalValue;  // Restore user's typed text
-                    hintBtn.classList.remove('active');
-                }
-                input.focus();
-            });
 
-            function focusNextInput() {
-                let found = false;
-                // Find next available input after the current one
-                for (let i = index + 1; i < CHUNK_SIZE; i++) {
-                    const nextInput = document.getElementById(`input-${i}`);
-                    if (nextInput && !nextInput.disabled) {
-                        nextInput.focus();
-                        found = true;
-                        break;
-                    }
-                }
-                
-                // If not found, look from the beginning (wrap around)
-                if (!found) {
-                    for (let i = 0; i < index; i++) {
-                        const prevInput = document.getElementById(`input-${i}`);
-                        if (prevInput && !prevInput.disabled) {
-                            prevInput.focus();
-                            found = true;
-                            break;
-                        }
-                    }
-                }
-                
-                // If everything is done, focus the Next button
-                if (!found && !nextBtn.disabled) {
+            function focusNextQuestion() {
+                const nextAvailable = [...document.querySelectorAll('.word-item:not(.correct):not(.skipped) .answer-option:not(:disabled)')][0];
+
+                if (nextAvailable) {
+                    nextAvailable.focus();
+                } else if (!nextBtn.disabled) {
                     nextBtn.focus();
                 }
             }
 
-            input.addEventListener('input', (e) => {
-                if (isHintVisible) {
-                    isHintVisible = false;
-                    hintBtn.classList.remove('active');
-                }
-                checkAnswer(e.target.value, item.meaning, div, input, false);
-                checkAllCompleted();
-                if (div.classList.contains('correct')) {
-                    // Delay focus to prevent IME/typing bleed to the next input
-                    setTimeout(() => {
-                        focusNextInput();
-                    }, 300);
-                }
-            });
-            
-            // Allow enter key to move to next input, or Esc/Ctrl+Space to toggle hint
-            input.addEventListener('keydown', (e) => {
-                if (e.key === 'Enter') {
-                    e.preventDefault(); // Prevent default Enter behavior (like form submission)
-                    checkAnswer(e.target.value, item.meaning, div, input, true);
-                    checkAllCompleted();
-                    // Small delay to ensure any active composition or typing is cleared
-                    setTimeout(() => {
-                        focusNextInput();
-                    }, 50);
-                } else if (e.key === 'Escape' || (e.ctrlKey && e.key === ' ')) {
-                    e.preventDefault();
-                    hintBtn.click();
-                }
+            optionButtons.forEach(button => {
+                button.addEventListener('keydown', (e) => {
+                    if (e.key === 'Enter' || e.key === ' ') {
+                        e.preventDefault();
+                        button.click();
+                        setTimeout(focusNextQuestion, 50);
+                    }
+                });
             });
         });
 
@@ -185,36 +176,35 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         
         updateProgress();
-        // Focus first input
         setTimeout(() => {
-            const firstInput = document.getElementById('input-0');
-            if (firstInput) firstInput.focus();
+            const firstOption = document.querySelector('.answer-option:not(:disabled)');
+            if (firstOption) firstOption.focus();
         }, 100);
     }
     
-    function checkAnswer(userValue, correctMeaning, itemDiv, inputEl, isEnter) {
-        const u = normalizeStr(userValue);
-        const c = normalizeStr(correctMeaning);
-        
-        if (!u) return;
+    function selectAnswer(selectedMeaning, correctMeaning, itemDiv, optionButtons) {
+        const isCorrect = normalizeStr(selectedMeaning) === normalizeStr(correctMeaning);
 
-        let isCorrect = false;
-        const parts = c.split(',').map(p => p.trim());
-        
-        // Auto-complete ONLY on exact match of the whole phrase or any comma-separated part
-        if (u === c || parts.includes(u)) {
-            isCorrect = true;
-        } 
-        // If user presses Enter, allow partial match (if user typed at least 3 chars of the meaning)
-        else if (isEnter && u.length >= 3 && c.includes(u)) {
-            isCorrect = true;
+        optionButtons.forEach(button => {
+            button.disabled = true;
+            if (normalizeStr(button.dataset.answer) === normalizeStr(correctMeaning)) {
+                button.classList.add('correct-answer');
+            }
+        });
+
+        const selectedButton = [...optionButtons].find(button => normalizeStr(button.dataset.answer) === normalizeStr(selectedMeaning));
+        if (selectedButton) {
+            selectedButton.classList.add('selected');
         }
 
         if (isCorrect) {
             itemDiv.classList.add('correct');
             itemDiv.classList.remove('skipped');
-            inputEl.disabled = true;
-            inputEl.value = correctMeaning; // Auto-fill with full meaning
+        } else {
+            itemDiv.classList.add('skipped');
+            if (selectedButton) {
+                selectedButton.classList.add('wrong-answer');
+            }
         }
     }
     
@@ -285,9 +275,13 @@ document.addEventListener('DOMContentLoaded', () => {
         items.forEach((item, index) => {
             if (!item.classList.contains('correct')) {
                 item.classList.add('skipped');
-                const input = item.querySelector('.word-input');
-                input.value = vocabData[currentIndex + index].meaning;
-                input.disabled = true;
+                const correctMeaning = vocabData[currentIndex + index].meaning;
+                item.querySelectorAll('.answer-option').forEach(button => {
+                    button.disabled = true;
+                    if (normalizeStr(button.dataset.answer) === normalizeStr(correctMeaning)) {
+                        button.classList.add('selected', 'correct-answer');
+                    }
+                });
             }
         });
         nextBtn.disabled = false;
